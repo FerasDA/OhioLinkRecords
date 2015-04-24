@@ -1,0 +1,1387 @@
+Record 1 of 40
+             FCO
+CALL #       DK971.T64 W45 2013.
+AUTHOR       Welsford, Thomas.
+TITLE        Four types of loyalty in early modern central Asia : the Tūqāy-
+               Timūrid takeover of greater Mā Warā al-Nahr, 1598-1605 / by 
+               Thomas Welsford.
+IMPRINT      Leiden ; Boston : Brill, 2013.
+DESCRIPT'N   xxii, 365 p. : ill. ; 25 cm.
+SERIES       Brill's Inner Asian library, 1566-7162 ; v. 27.
+SERIES       Brill's Inner Asian library ; v. 27.
+NOTE         Includes bibliographical references and index.
+SUBJECT      Transoxiana -- History.
+SUBJECT      Transoxiana -- Kings and rulers.
+SUBJECT      Timurids.
+SUBJECT      Allegiance.
+OCLC #       808244829.
+ISN/STD #    9789004231870 (hardback : alk. paper)
+ISN/STD #    9004231870 (hardback : alk. paper)
+ISN/STD #    9789004236752 (e-book)
+ISN/STD #    9004236759 (e-book)
+ISN/STD #    40021683344.
+ISN/STD #    (OCoLC)808244829.
+LCCN         2012032220.
+
+Record 2 of 40
+             MIA
+CALL #       PL65.K55 P75 2013.
+AUTHOR       Prior, Daniel.
+TITLE        The Šabdan Baatır codex : epic and the writing of northern 
+               Kirghiz history : edition, translation and interpretations, 
+               with a facsimile of the unique manuscript / by Daniel Prior.
+IMPRINT      Leiden ; Boston : Brill, 2013.
+DESCRIPT'N   xi, 470 p. : ill., maps, facsims., gen. table ; 25 cm.
+SERIES       Brill's Inner Asian library, 1566-7162 ; v. 28.
+SERIES       Brill's Inner Asian library ; v. 28.
+NOTE         Includes bibliographical references (p. [373]-399) and index.
+SUBJECT      Kyrgyz literature -- History and criticism.
+SUBJECT      Epic literature, Kyrgyz -- History and criticism.
+SUBJECT      Historiography -- Kyrgyzstan.
+SUBJECT      Kyrgyzstan -- History -- Sources.
+OCLC #       806981095.
+LCCN         2012030454.
+
+Record 3 of 40
+             CIN
+CALL #       B340.A8 A73 2011.
+CALL #       171/.3 23.
+AUTHOR       Aristotle.
+TITLE        Nicomachean ethics. Arabic & Greek.
+TITLE        Die Nikomachische Ethik des Aristoteles in arabischer Übersetzung
+               / Manfred Ullmann.
+IMPRINT      Wiesbaden : Harrassowitz, 2011-
+DESCRIPT'N   v. <1-  ; 25 cm.
+NOTE         Introd. in German; handwritten text in Arabic and Greek.
+NOTE         Includes bibliographical references.
+NOTE         T. 1.  Wortschatz.
+SUBJECT      Ethics -- Early works to 1800.
+ALT NAME     Ullmann, Manfred.
+OCLC #       715151987.
+ISN/STD #    9783447064835 (T. 1 : alk. paper)
+ISN/STD #    3447064838 (T. 1 : alk. paper)
+ISN/STD #    (OCoLC)715151987.
+LCCN         2011454452.
+
+Record 4 of 40
+             CIN
+CALL #       B744.3 .E587 2011.
+CALL #       180 1.
+AUTHOR       Entretiens sur l'Antiquité classique (2010 : Vandœuvres, 
+               Switzerland)
+TITLE        Entre Orient et Occident : la philosophie et la science gréco-
+               romaines dans le monde arabe : huit exposés suivis de 
+               discussions / par Peter Adamson ... [et al.] ; introduction de 
+               Richard Goulet et Ulrich Rudolph ; entretiens préparés par 
+               Richard Goulet et Ulrich Rudolph ; présidés par Christoph 
+               Riedweg et édités par Pascale Derron.
+IMPRINT      Genève : Fondation Hardt, c2011.
+DESCRIPT'N   xxxvii, 406 p. : ill. ; 23 cm.
+SERIES       Entretiens sur l'Antiquité classique, 0071-0822 ; 57.
+SERIES       Entretiens sur l'Antiquité classique (Series) ; t. 57.
+NOTE         "Vandoeuvres-Genève, 22-27 août 2010."
+NOTE         Includes bibliographical references and indexes.
+NOTE         Text in French, German, English and Italian.
+SUBJECT      Philosophy, Arab -- Classical influences -- Congresses.
+SUBJECT      Philosophy, Ancient -- Congresses.
+ALT NAME     Adamson, Peter, 1972-
+ALT NAME     Goulet, Richard, 1943-
+ALT NAME     Rudolph, Ulrich.
+ALT NAME     Riedweg, Christoph.
+ALT NAME     Derron, Pascale.
+ALT NAME     Fondation Hardt pour l'étude de l'Antiquité classique.
+OCLC #       754164018.
+ISN/STD #    9782600007573.
+ISN/STD #    2600007571.
+ISN/STD #    (OCoLC)754164018.
+
+Record 5 of 40
+             XAV
+CALL #       PJ6761 .L34 2013.
+TITLE        African Arabic [electronic resource] : approaches to dialectology
+               / ed. by Mena Lafkioui.
+IMPRINT      Berlin : De Gruyter Mouton, cop. 2013.
+DESCRIPT'N   1 online resource (text (viii, 301 pages))
+SERIES       Trends in linguistics, Studies and monographs ; 258.
+SERIES       EBSCO eBook collection.
+NOTE         Includes bibliographical references and index.
+NOTE         Addresses of contributors; Introduction; Grammar studies in 
+               African Arabic dialectology; Chapter 1. Native and non-native 
+               varieties of Arabic in an emerging urban centre of western 
+               Sudan. Evidence from Kadugli; Chapter 2. Reinventing negation 
+               patterns in Moroccan Arabic; Chapter 3. The prosody of Juba 
+               Arabic: split prosody, morphophonology, and slang; Chapter 4. 
+               Grammaticalized uses of the verb?a(a) in Arabic: a Maghrebian 
+               specificity?; Chapter 5. Some new information about Bongor 
+               Arabic; Lexicological studies in African Arabic dialectology.
+NOTE         Chapter 6. Strata on loanwords from Arabic and other Semitic 
+               languages in Northern SomaliChapter 7. Sub-Saharan lexical 
+               influence in North African Arabic and Berber; Chapter 8. 
+               Lexical aspects of Maghrebi Arabic; Chapter 9. Arab-Berber 
+               contacts in the Middle Ages and ancient Arabic dialects: new 
+               evidence from an old Iba?ite religious text; Index.
+SUBJECT      Arabic language -- Dialects -- Africa, North.
+SUBJECT      Arabic language -- Africa, North.
+SUBJECT      Arabic language -- Dialectology.
+SUBJECT      Languages in contact -- Africa, North.
+GENRE/FORM   Electronic books.
+ALT NAME     Lafkioui, Mena.
+LINK         Print version: African Arabic. Berlin : De Gruyter Mouton, cop. 
+               2013 (DLC)  2013011988.
+OCLC #       842119111.
+ISN/STD #    9783110292343 (electronic bk.)
+ISN/STD #    3110292343 (electronic bk.)
+ISN/STD #    3110292327.
+ISN/STD #    9783110292329.
+ISN/STD #    (OCoLC)842119111.
+
+Record 6 of 40
+             KSU
+CALL #       DT173 .J813 2012.
+CALL #       956.013 22.
+AUTHOR       Manṣūr, al-Kātib, -approximately 1000.
+TITLE        Inside the immaculate portal : a history from early Fatimid 
+               archives : a new edition and English translation of Manṣūr al-
+               ʻAzīzī al-Jawdharī's biography of al-Ustādh Jawdhar, the Sīrat 
+               al-Ustādh Jawdhar / edited and translated by Hamid Haji.
+IMPRINT      London : I.B. Tauris in association with the Institute of Ismaili
+               Studies, 2012.
+DESCRIPT'N   xxii, 183, 196, 8 pages : maps, genealogical tables ; 23 cm.
+SERIES       The Institute of Ismaili Studies, Ismaili texts and translation 
+               series ; 16.
+NOTE         Includes bibliographical references (pages 167-176, 1st set) and 
+               indexes.
+SUBJECT      Jawdhar, -972 or 973.
+SUBJECT      Fatimites -- History -- Sources.
+ALT NAME     Manṣūr, al-Kātib, -approximately 1000. Sīrat al-ustādh Jawdhar. 
+               English.
+ALT NAME     Manṣūr, al-Kātib, -approximately 1000. Sīrat al-ustādh Jawdhar. 
+               Arabic.
+ALT NAME     Haji, Hamid, 1945-
+ALT TITLE    Sīrat al-ustādh Jawdhar.
+OCLC #       781433264.
+ISN/STD #    9781780762685.
+ISN/STD #    1780762682.
+LCCN         2012368488.
+
+Record 7 of 40
+             OU
+CALL #       BP55 .S46 2012.
+AUTHOR       Shoemaker, Stephen J., 1968-
+TITLE        The death of a prophet : the end of Muhammad's life and the 
+               beginnings of Islam / Stephen J. Shoemaker.
+EDITION      1st ed.
+IMPRINT      Philadelphia : University of Pennsylvania Press, c2012.
+DESCRIPT'N   408 p. ; 24 cm.
+SERIES       Divinations : rereading late ancient religion.
+SERIES       Divinations.
+NOTE         Includes bibliographical references (p. [353]-390) and index.
+NOTE         "A prophet has appeared, coming with the Saracens": Muhammad's 
+               leadership during the conquest of Palestine according to 
+               seventh- and eighth-century sources -- The end of Muhammad's 
+               life in early Islamic memory: the witness of the Sīra tradition
+               -- The beginnings of Islam and the end of days: Muhammad as 
+               eschatological prophet -- From believers to Muslims, from 
+               Jerusalem to the Ḥijāz: confessional identity and sacred 
+               geography in early Islam.
+NOTE         The oldest Islamic biography of Muhammad, written in the mid-
+               eighth century, relates that the prophet died at Medina in 632,
+               while earlier and more numerous Jewish, Christian, Samaritan, 
+               and even Islamic sources indicate that Muhammad survived to 
+               lead the conquest of Palestine, beginning in 634-35. Although 
+               this discrepancy has been known for several decades, Stephen J.
+               Shoemaker here writes the first systematic study of the various
+               traditions. Using methods and perspectives borrowed from 
+               biblical studies, Shoemaker concludes that these reports of 
+               Muhammad's leadership during the Palestinian invasion likely 
+               preserve an early Islamic tradition that was later revised to 
+               meet the needs of a changing Islamic self-identity. Muhammad 
+               and his followers appear to have expected the world to end in 
+               the immediate future, perhaps even in their own lifetimes, 
+               Shoemaker contends. When the eschatological Hour failed to 
+               arrive on schedule and continued to be deferred to an ever more
+               distant point, the meaning of Muhammad's message and the faith 
+               that he established needed to be fundamentally rethought by his
+               early followers. The larger purpose of The Death of a Prophet 
+               exceeds the mere possibility of adjusting the date of 
+               Muhammad's death by a few years; far more important to 
+               Shoemaker are questions about the manner in which Islamic 
+               origins should be studied. The difference in the early sources 
+               affords an important opening through which to explore the 
+               nature of primitive Islam more broadly. Arguing for greater 
+               methodological unity between the study of Christian and Islamic
+               origins, Shoemaker emphasizes the potential value of non-
+               Islamic sources for reconstructing the history of formative 
+               Islam. -- Product Description.
+SUBJECT      Muḥammad, Prophet, -632.
+SUBJECT      Islam -- History.
+SUBJECT      Islam -- Historiography.
+OCLC #       720634830.
+ISN/STD #    9780812243567 (alk. paper)
+ISN/STD #    0812243560 (alk. paper)
+ISN/STD #    (OCoLC)720634830.
+LCCN         2011016426.
+
+Record 8 of 40
+             CIN
+CALL #       PA4004 .H96 2012.
+AUTHOR       Humbach, Helmut.
+TITLE        Herodotus's Scythians and Ptolemy's Central Asia : semasiological
+               and onomasiological studies / Helmut Humbach and Klaus Faiss.
+IMPRINT      Wiesbaden : Reichert Verlag, c2012.
+DESCRIPT'N   xii, 91 p. ; 25 cm.
+NOTE         Includes bibliographical references and indexes.
+SUBJECT      Herodotus.
+SUBJECT      Ptolemy, active 2nd century.
+SUBJECT      Scythians.
+SUBJECT      Asia, Central.
+ALT NAME     Faiss, Klaus.
+OCLC #       792880776.
+ISN/STD #    9783895008870.
+ISN/STD #    3895008877.
+ISN/STD #    (OCoLC)792880776.
+
+Record 9 of 40
+             WSU
+CALL #       UA649 .K58 2014.
+CALL #       940.43 23.
+AUTHOR       Kitchen, James E., author.
+TITLE        The British Imperial Army in the Middle East : morale and 
+               military identity in the Sinai and Palestine campaigns, 1916-18
+               / James E. Kitchen.
+IMPRINT      London : Bloomsbury, 2014.
+DESCRIPT'N   x, 303 pages : illustrations, maps ; 24 cm.
+SERIES       War, culture and society series.
+SERIES       War, culture and society.
+NOTE         Includes bibliographical references (pages [269]-293) and index.
+NOTE         The nature of war in Sinai and Palestine -- A twentieth-century 
+               crusade? -- Command, control and morale -- Citizen soldiers at 
+               war -- The Anzac legend, mateship and morale -- The Indian army
+               fighting for empire.
+SUBJECT      Great Britain. Army -- History -- World War, 1914-1918.
+SUBJECT      World War, 1914-1918 -- Campaigns -- Egypt -- Sinai.
+SUBJECT      World War, 1914-1918 -- Campaigns -- Palestine.
+SUBJECT      World War, 1914-1918 -- Participation, British.
+OCLC #       857981351.
+ISN/STD #    (OCoLC)857981351.
+ISN/STD #    9781472505279.
+ISN/STD #    1472505271.
+ISN/STD #    9781472511317 (ePDF)
+ISN/STD #    147251131X (ePDF)
+ISN/STD #    9781472509284 (ePub)
+ISN/STD #    1472509285 (ePub)
+
+Record 10 of 40
+             OPL
+CALL #       DS119.76 .F725 2012.
+TITLE        Freedom sailors : the inside story of the Free Gaza movement's 
+               first voyage to challenge Israel's illegal blockade of Gaza, 
+               and how we succeeded in spite of ourselves / edited by Greta 
+               Berlin and Bill Dienst.
+IMPRINT      [S.l. : s.n.], [2012]
+IMPRINT      ©2012.
+DESCRIPT'N   252 p. : ill. ; 23 cm.
+NOTE         Includes index.
+SUBJECT      Free Gaza Movement.
+SUBJECT      Arab-Israeli conflict -- 1993- -- Protest movements.
+SUBJECT      Peace movements -- Gaza Strip.
+SUBJECT      Nonviolence -- Israel.
+SUBJECT      Nonviolence -- Gaza Strip.
+SUBJECT      Gaza Strip -- Politics and government.
+SUBJECT      Israel -- Politics and government.
+ALT NAME     Berlin, Greta.
+ALT NAME     Dienst, Bill.
+OCLC #       855220399.
+ISN/STD #    9780615654898.
+ISN/STD #    0615654894.
+ISN/STD #    (OCoLC)855220399.
+
+Record 11 of 40
+             CWR
+CALL #       PJ5008 .G46 2014.
+CALL #       892.4/09 23.
+AUTHOR       Ginsburg, Shai, 1967- author.
+TITLE        Rhetoric and nation : the formation of Hebrew national culture, 
+               1880-1990 / Shai P. Ginsburg.
+IMPRINT      Syracuse, New York : Syracuse University Press, [2014]
+IMPRINT      ©2014.
+DESCRIPT'N   xi, 473 pages ; 24 cm.
+SERIES       Judaic traditions in literature, music, and art.
+SERIES       Judaic traditions in literature, music, and art.
+NOTE         Includes bibliographical references (pages 385-443) and index.
+NOTE         Introduction: nation and discourse -- Politics and letters: Ah'ad
+               Ha-Am's Rhetoric of the Nation -- Language and pedagogy: Moshe 
+               Smilansky's H'awaja Nazar -- Literary criticism as nationalist 
+               cartography: Joseph Hayyim Brenner and The Land of Israel Genre
+               and its Accouterments -- The rhetoric of historical anxiety: 
+               David Ben-Gurion and Meir Yaari -- History and myth: Moshe 
+               Shamir's He Walked through the Fields -- History and mourning: 
+               the reception of Moshe Shamir's He Walked through the Fields --
+               National aesthetics in crisis: Amos Oz's political writings -- 
+               The tussle with the Zionist dream: Yaakov Shabtai's Past 
+               Continuous -- A sentimental journey: Dan Miron's Moral 
+               Landscape -- Rethinking the Hebrew discourse of the nation.
+SUBJECT      Shamir, Moshe, 1921-2004. Hu halakh ba-śadot.
+SUBJECT      Hebrew literature -- History and criticism.
+SUBJECT      Israeli literature -- History and criticism.
+SUBJECT      Jewish literature -- History and criticism.
+SUBJECT      Zionism and literature.
+SUBJECT      Nationalism and literature.
+OCLC #       863200223.
+ISN/STD #    GBB441277 bnb.
+ISN/STD #    9780815633334 (cloth : alk. paper)
+ISN/STD #    0815633335 (cloth : alk. paper)
+ISN/STD #    9780815652427 (ebook)
+ISN/STD #    0815652429 (ebook)
+ISN/STD #    (OCoLC)863200223.
+LCCN         2014011267.
+
+Record 12 of 40
+             OSU
+AUTHOR       Stanton, Andrea L.
+TITLE        This is Jerusalem calling [electronic resource] : state radio in 
+               mandate Palestine / by Andrea L. Stanton.
+EDITION      1st ed.
+IMPRINT      Austin : University of Texas Press, 2013. (Baltimore, Md. : 
+               Project MUSE,  2014)
+DESCRIPT'N   1 online resource.
+SERIES       UPCC book collections on Project MUSE.
+NOTE         Includes bibliographical references and index.
+NOTE         Selling radio, selling radios : advertising sets in mandate 
+               Palestine -- Peasants into Palestinians : rural and school 
+               broadcasting -- Broadcasting a nationalist modernity : the PBS 
+               Arabic section -- Putting religion on the radio -- Claiming the
+               PBS : whose national radio?
+GENRE/FORM   Electronic books.  local.
+ALT NAME     Project Muse.
+OCLC #       852159616.
+ISN/STD #    0292747500.
+ISN/STD #    9780292747500.
+ISN/STD #    0292747497.
+ISN/STD #    9780292747494 (cloth : alk. paper)
+LCCN         2012044365.
+
+Record 13 of 40
+             WSU
+CALL #       297.2/7 23.
+CALL #       BP173.25 .T58 2014.
+AUTHOR       Tittensor, David.
+TITLE        The house of service : the Gülen movement and Islam's third way /
+               David Tittensor.
+IMPRINT      Oxford ; New York : Oxford University Press, [2014]
+DESCRIPT'N   xiv, 248 pages : illustrations ; 25 cm.
+SERIES       Religion and global politics.
+SERIES       Religion and global politics.
+NOTE         Includes bibliographical references (pages 217-236) and index.
+NOTE         The Gülen movement in context. Islam in Turkey: continuities in 
+               spite of change -- All is not what it seems: a critical 
+               appraisal of modern Turkey -- The development of a vision -- 
+               The Gülen movement in practice. Voices from within, voices from
+               without: movement teachers and students speak for themselves --
+               Divergence between the mission and the message: interrogation 
+               of a double standard -- Placing the Gülen movement in the 
+               global order: the need for a new typology -- A singular 
+               movement with a modern day mission.
+SUBJECT      Gülen Hizmet Movement.
+SUBJECT      Islam -- Turkey -- 21st century.
+OCLC #       855909962.
+ISN/STD #    GBB431421 bnb.
+ISN/STD #    (OCoLC)855909962.
+ISN/STD #    9780199336418 (hardcover : alk. paper)
+ISN/STD #    0199336415 (hardcover : alk. paper)
+ISN/STD #    9780199336425 (ebook)
+ISN/STD #    0199336423 (ebook)
+LCCN         2013033062.
+
+Record 14 of 40
+             WSU
+CALL #       953.63 23.
+CALL #       DS247.Q35 K36 2013.
+AUTHOR       Kamrava, Mehran, 1964- author.
+TITLE        Qatar : small state, big politics / Mehran Kamrava.
+IMPRINT      Ithaca : Cornell University Press, 2013.
+DESCRIPT'N   x, 222 pages : b illustrations, map ; 24 cm.
+NOTE         Includes bibliographical references and index.
+NOTE         Setting the stage -- The subtle powers of a small state -- 
+               Foreign policy and power projection -- The stability of royal 
+               autocracy -- State capacity and high modernism -- Qatar's 
+               moment in history.
+SUBJECT      Qatar -- Politics and government.
+SUBJECT      Qatar -- Foreign relations.
+OCLC #       826860899.
+ISN/STD #    (OCoLC)826860899.
+ISN/STD #    9780801452093 (cloth : alk. paper)
+ISN/STD #    0801452090 (cloth : alk. paper)
+LCCN         2013003359.
+
+Record 15 of 40
+             CWR
+CALL #       DS383.5.A2 P385 2014.
+CALL #       954.9105 23.
+AUTHOR       Paul, T. V., author.
+TITLE        The warrior state : Pakistan in the contemporary world / T. V. 
+               Paul.
+IMPRINT      New York : Oxford University Press, [2014]
+DESCRIPT'N   xii, 253 pages : maps ; 25 cm.
+NOTE         War and development -- The causes -- A turbulent history -- The 
+               garrison state -- The geostrategic urge -- Religion and 
+               politics -- Comparing Pakistan -- The warrior state today.
+NOTE         Includes bibliographical references and index.
+NOTE         In The Warrior State, noted international relations and South 
+               Asia scholar T.V. Paul untangles this fascinating riddle. Paul 
+               argues that the "geostrategic curse"--akin to the "resource 
+               curse" that plagues oil-rich autocracies--is at the root of 
+               Pakistan's unique inability to progress. Since its founding in 
+               1947, Pakistan has been at the center of major geopolitical 
+               struggles: the US-Soviet rivalry, the conflict with India, and 
+               most recently the post 9/11 wars. No matter how ineffective the
+               regime is, massive foreign aid keeps pouring in from major 
+               powers and their allies with a stake in the region. The 
+               reliability of such aid defuses any pressure on political 
+               elites to launch the far-reaching domestic reforms necessary to
+               promote sustained growth, higher standards of living, and more 
+               stable democratic institutions. Paul shows that excessive war-
+               making efforts have drained Pakistan's limited economic 
+               resources without making the country safer or more stable. 
+               Indeed, despite the regime's emphasis on security, the country 
+               continues to be beset by widespread violence and terrorism.
+SUBJECT      Geopolitics -- Pakistan.
+SUBJECT      National security -- Pakistan.
+SUBJECT      War -- Economic aspects.
+SUBJECT      Economic development -- Pakistan.
+SUBJECT      Pakistan -- Politics and government.
+OCLC #       852031217.
+ISN/STD #    9780199322237 (hardback : alkaline paper)
+ISN/STD #    0199322236 (hardback : alkaline paper)
+ISN/STD #    (OCoLC)852031217.
+LCCN         2013022390.
+
+Record 16 of 40
+             FCO
+CALL #       HC415.15 .H35 2013.
+AUTHOR       Hanieh, Adam, 1972-, author.
+TITLE        Lineages of revolt : issues of contemporary capitalism in the 
+               Middle East / Adam  Hanieh.
+IMPRINT      Chicago, Illinois : Haymarket Books, 2013.
+DESCRIPT'N   273 pages ; 23 cm.
+NOTE         Includes bibliographical references (pages 195-218) and index.
+NOTE         "Praise for Adam Hanieh's Capitalism and Class in the Gulf Arab 
+               States:"The first work to be published in English that gives a 
+               full understanding of the formation and development of the Gulf
+               capitalist class."-Counterfire In this illuminating and 
+               original work, Adam Hanieh demonstrates that the Arab Spring 
+               rebellions are about much more than democracy. Too often the 
+               Arab uprisings have been reduced to a simple expression of mass
+               protest against authoritarian regimes. In an accessible and 
+               engaging style, Hanieh shows how an analysis of the specific 
+               nature of capitalist development in the Middle East is key to 
+               understanding these revolutions. Adam Hanieh teaches 
+               development studies at the School of Oriental and African 
+               Studies (SOAS). He is the author of Capitalism and Class in the
+               Gulf Arab States. "-- Provided by publisher.
+SUBJECT      Economic development -- Political aspects -- Middle East.
+SUBJECT      Capitalism -- Political aspects -- Middle East.
+SUBJECT      Insurgency -- Economic aspects -- Middle East.
+SUBJECT      Middle East -- Economic policy.
+SUBJECT      Middle East -- Economic conditions.
+OCLC #       827974587.
+ISN/STD #    1608463257 (pbk.)
+ISN/STD #    9781608463251 (pbk.)
+ISN/STD #    40022998447.
+ISN/STD #    (OCoLC)827974587.
+LCCN         2013030409.
+
+Record 17 of 40
+             KSU
+CALL #       PJ6106 .F348 2012.
+CALL #       492.7/5 23.
+AUTHOR       Fassi Fehri, Abdelkader.
+TITLE        Key features and parameters in Arabic grammar / Abdelkader Fassi 
+               Fehri.
+IMPRINT      Amsterdam ; Philadelphia : John Benjamins Pub. Co., [2012]
+IMPRINT      ©2012.
+DESCRIPT'N   xx, 358 pages : illustrations ; 25 cm.
+SERIES       Linguistik aktuell/linguistics today ; v. 182.
+SERIES       Linguistik aktuell ; Bd. 182.
+NOTE         Includes bibliographical references and index.
+SUBJECT      Arabic language -- Grammar.
+OCLC #       761369237.
+ISN/STD #    9789027255655 (alk. paper)
+ISN/STD #    9027255652 (alk. paper)
+ISN/STD #    9789027274960 (eb)
+ISN/STD #    9027274967 (eb)
+LCCN         2011048226.
+
+Record 18 of 40
+             OSU
+CALL #       N7280 .A86 2012.
+TITLE        The art and material culture of Iranian Shi'ism : iconography and
+               religious devotion in Shi'i Islam / Pedram Khosronejad.
+IMPRINT      London : I. B. Tauris, 2010.
+DESCRIPT'N   xix, 284 p. : ill. (some col.) ; 22 cm.
+SERIES       International library of Iranian studies ; v. 29.
+SERIES       International library of Iranian studies ; 29.
+SUBJECT      Islamic art -- Iran.
+SUBJECT      Islam and art.
+SUBJECT      Islam and architecture -- Iran.
+SUBJECT      Shīʻah -- Iran.
+SUBJECT      Iran -- Civilization.
+ALT NAME     Khosronejad, Pedram.
+OCLC #       774832871.
+ISN/STD #    GBB056382 bnb.
+ISN/STD #    015541789 Uk.
+ISN/STD #    9781848851689 (hbk.)
+ISN/STD #    1848851685 (hbk.)
+ISN/STD #    .b70082765.
+
+Record 19 of 40
+             CIN
+CALL #       BL1570 .R67 2011.
+CALL #       295 22.
+AUTHOR       Rose, Jenny, 1956-
+TITLE        Zoroastrianism : an introduction / Jenny Rose.
+IMPRINT      London ; New York : I.B. Tauris; New York : Distributed in the 
+               U.S. and Canada exclusively by Palgrave Macmillan, 2011.
+DESCRIPT'N   xxiv, 303 p. : ill., maps ; 22 cm.
+SERIES       I.B. Taurus introductions to religion.
+SERIES       I.B. Tauris introductions to religion.
+NOTE         Includes bibliographical references (p. [287]-290) and index.
+NOTE         "Zoroastrianism is one of the world's great ancient religions. In
+               present-day Iran significant communities of Zoroastrians (who 
+               take their name from the founder of the faith, the remarkable 
+               religious reformer Zoroaster, or--in the old Avestan language--
+               Zarathustra) still practise the rituals and teach the moral 
+               precepts that once undergirded the officially state-sanctioned 
+               faith of the mighty Sasanian empire. Beyond Iran, the 
+               Zoroastrian diaspora is significant especially in India, where 
+               the Gujurati-speaking community of exiles from post-Sasanian 
+               Iran call themselves 'Parsis'. But there are also significant 
+               Zoroastrian communities to be found elsewhere, such as in the 
+               USA, Britain and Canada, where western cultural contexts have 
+               shaped the religion in intriguing ways and directions. This
+               new, thorough and wide-ranging introduction will appeal to 
+               anyone interested in discovering more about the faith that 
+               bequeathed the contrasting words 'Mary' and 'magic', and whose 
+               adherents still live according to the code of Good Thoughts, 
+               Good Words, Good Deeds. The central Zoroastrian concept that 
+               human beings are continually faced with a choice between the 
+               path of 'good' and 'evil', represented by the contrasting 
+               figures of Ahura Mazda and Ahriman, inspired thinkers as 
+               diverse as Voltaire, Mozart and Nietzsche. Jenny Rose shows why
+               Zoroastrianism remains one of the world's most inspiring and 
+               perennially fascinating systems of ethics and belief"--
+               Publisher description, p. [4] of cover.
+SUBJECT      Zoroastrianism.
+OCLC #       646099017.
+ISN/STD #    GBB087299 bnb.
+ISN/STD #    9781848850873 (HB)
+ISN/STD #    1848850875 (HB)
+ISN/STD #    9781848850880 (PB)
+ISN/STD #    1848850883 (PB)
+ISN/STD #    (OCoLC)646099017 (OCoLC)646099022 (OCoLC)696742306.
+LCCN         2011280297.
+
+Record 20 of 40
+             CIN
+CALL #       522.40940902 22.
+AUTHOR       King, David A.
+TITLE        Astrolabes from medieval Europe / David A. King.
+IMPRINT      London ; Burlington, VT : Ashgate Publishing Ltd, 2011.
+DESCRIPT'N   1 v. (various pagings) : ill. ; 25 cm.
+SERIES       Variorum collected studies series.
+SERIES       Collected studies.
+NOTE         Includes bibliographical references and index.
+SUBJECT      Astrolabes -- Europe -- History -- To 1500.
+SUBJECT      Astronomy, Medieval -- Europe.
+OCLC #       697948601.
+ISN/STD #    1409425932.
+ISN/STD #    9781409425939.
+ISN/STD #    9781409428756.
+ISN/STD #    9781409424017.
+ISN/STD #    1409427889.
+ISN/STD #    9781409427889.
+ISN/STD #    (OCoLC)697948601.
+
+Record 21 of 40
+             CIN
+CALL #       JZ1251 .Z37 2010.
+CALL #       327.1 22.
+AUTHOR       Zarakol, Ayse.
+TITLE        After defeat : how the East learned to live with the West / Ayse 
+               Zarakol.
+IMPRINT      Cambridge ; New York : Cambridge University Press, 2010.
+DESCRIPT'N   xii, 291 p. ; 24 cm.
+SERIES       Cambridge studies in international relations ; 118.
+NOTE         "Not being of the West; being behind the West; not being modern 
+               enough; not being developed or industrialized, secular, 
+               civilized, Christian, transparent, or democratic - these 
+               descriptions have all served to stigmatize certain states 
+               through history. Drawing on constructivism as well as the 
+               insights of social theorists and philosophers, After Defeat 
+               demonstrates that stigmatization in international relations can
+               lead to a sense of national shame, as well as auto-Orientalism 
+               and inferior status. Ayşe Zarakol argues that stigmatized 
+               states become extra-sensitive to concerns about status, and 
+               shape their foreign policy accordingly. The theoretical 
+               argument is supported by a detailed historical overview of 
+               central examples of the established/outsider dichotomy 
+               throughout the evolution of the modern states system, and in-
+               depth studies of Turkey after the First World War, Japan after 
+               the Second World War, and Russia after the Cold War"-- Provided
+               by publisher.
+NOTE         Includes bibliographical references and index.
+NOTE         Machine generated contents note: Introduction; Part I. Of Gates 
+               and Keepers in the International System: 1. Outsiders and 
+               insiders in the international system; 2. States as outsiders; 
+               Part II. An Imperial Message: 3. The 'barbarians': Turkey 
+               (1918-1939); 4. The 'children': Japan (1945-1972); 5. The 
+               'enigma': Russia (1990-2007); 6. Conclusion: 'Zealots or 
+               Herodians'?
+SUBJECT      International relations -- Social aspects.
+SUBJECT      Inferiority complex -- Social aspects.
+SUBJECT      Defeat (Psychology)
+SUBJECT      Collective memory.
+SUBJECT      Military history, Modern -- 20th century.
+SUBJECT      Turkey -- Foreign relations -- 1918-1960.
+SUBJECT      Japan -- Foreign relations -- 1945-1989.
+SUBJECT      Russia (Federation) -- Foreign relations.
+OCLC #       656771095.
+ISN/STD #    GBB098578 bnb.
+ISN/STD #    9780521191821 (hardback)
+ISN/STD #    0521191823 (hardback)
+ISN/STD #    9780521145565 (pbk.)
+ISN/STD #    0521145562 (pbk.)
+ISN/STD #    (OCoLC)656771095.
+LCCN         2010037098.
+
+Record 22 of 40
+             OU
+CALL #       DS80.4 .V65 2010.
+AUTHOR       Volk, Lucia.
+TITLE        Memorials and martyrs in modern Lebanon / Lucia Volk.
+IMPRINT      Bloomington : Indiana University Press, c2010.
+DESCRIPT'N   xv, 250 p. : ill., map ; 24 cm.
+SERIES       Public cultures of the Middle East and North Africa.
+SERIES       Public cultures of the Middle East and North Africa.
+NOTE         Includes bibliographical references and index.
+NOTE         The politics of memory in Lebanon: sectarianism, memorials, and 
+               martyrdom -- Sculpting independence: competing ceremonies and 
+               mutilated faces (1915-1957) -- Remembering civil wars: fearless
+               faces and wounded bodies (1958-1995) -- Reconstructing while
+               re-destructing Lebanon: dismembered bodies and national unity 
+               (1996-2003) -- Revisiting independence and mobilizing 
+               resistance: assassinations, massacres, and divided memory-
+               scapes (2004-2006) -- Memorial politics and national
+               imaginings: possibilities and limits.
+SUBJECT      Martyrs -- Monuments -- Lebanon.
+SUBJECT      Memorials -- Lebanon.
+SUBJECT      Nationalism and collective memory -- Lebanon.
+SUBJECT      Lebanon -- Ethnic relations.
+OCLC #       503046778.
+ISN/STD #    9780253355232 (cloth : alk. paper)
+ISN/STD #    0253355230 (cloth : alk. paper)
+ISN/STD #    9780253222305 (pbk. : alk. paper)
+ISN/STD #    0253222303 (pbk. : alk. paper)
+ISN/STD #    (OCoLC)503046778.
+LCCN         2010011123.
+
+Record 23 of 40
+             OBE
+CALL #       PJ8005.2 .A44 2009.
+CALL #       892.710099287 22.
+AUTHOR       Al-Ghadeer, Moneera.
+TITLE        Desert voices : Bedouin women's poetry in Saudi Arabia / Moneera 
+               Al-Ghadeer.
+IMPRINT      London ; New York : Tauris Academic Studies ; New York : 
+               Distributed in the U.S. exclusively by Palgrave Macmillan,
+               2009.
+DESCRIPT'N   viii, 246 p. ; 24 cm.
+SERIES       Library of modern Middle East studies ; 74.
+SERIES       Library of modern Middle East studies ; 74.
+NOTE         Includes bibliographical references (p. [231]-240) and index.
+NOTE         Reading the nomadic voices -- Melancholic desire -- A malady of 
+               grief -- Masquerading tropes : the fiction of face and voice --
+               Technology and postcoloniality : Algeria and Arabia -- The 
+               translatability of the nomadic.
+NOTE         Poems translated from the Arabian.
+NOTE         "The Bedouin, or 'desert dwellers,' have a rich cultural heritage
+               often expressed through music and poetry. Here Moneera Al-
+               Ghadeer provides us with the first comparative reading of
+               women's oral poetry from Saudi Arabia. She examines women's 
+               lyrics of love, desire, mourning and grievance. We come to 
+               understand Bedouin mores and - most significantly - the unique 
+               description of a desert that is consistently held to be 
+               evocative, stimulating and boundless."--Dust jacket.
+NOTE         "The Bedouin, or 'desert dwellers,' have a rich cultural heritage
+               often expressed through music and poetry. Here Moneera Al-
+               Ghadeer provides us with the first comparative reading of
+               women's oral poetry from Saudi Arabia. She examines women's 
+               lyrics of love, desire, mourning and grievance. We come to 
+               understand Bedouin mores and - most significantly - the unique 
+               description of a desert that is consistently held to be 
+               evocative, stimulating and boundless."--Dust jacket.
+SUBJECT      Dialect poetry, Arabic -- Saudi Arabia -- Women authors.
+SUBJECT      Dialect poetry, Arabic -- Saudi Arabia -- History and criticism.
+SUBJECT      Dialect poetry, Arabic -- Saudi Arabia -- Translations into 
+               English.
+SUBJECT      Oral tradition -- Saudi Arabia.
+SUBJECT      Bedouins -- Poetry.
+SUBJECT      Women, Bedouin -- Saudi Arabia.
+ALT TITLE    Bedouin women's poetry in Saudi Arabia.
+RELATED WK   Online version: Al-Ghadeer, Moneera. Desert voices. London ; New 
+               York : Tauris Academic Studies, 2009 (OCoLC)649309104.
+OCLC #       417150081.
+ISN/STD #    9781845116668 (hbk.)
+ISN/STD #    1845116666 (hbk.)
+ISN/STD #    (OCoLC)417150081 (OCoLC)176926081.
+ISN/STD #    GBA920532 bnb.
+
+Record 24 of 40
+             CIN
+CALL #       PJ7918.H74 D3513 2012.
+CALL #       892.7/36 23.
+AUTHOR       Chreiteh, Alexandra.
+TITLE        Da'iman Coca-Cola. English.
+TITLE        Always Coca-Cola / by Alexandra Chreiteh ; translated from the 
+               Arabic by Michelle Hartman.
+IMPRINT      Northampton, Mass. : Interlink Books, 2012.
+DESCRIPT'N   121 p. ; 21 cm.
+SERIES       A swallow editions book.
+SUBJECT      Young women -- Lebanon -- Fiction.
+SUBJECT      Beirut (Lebanon) -- Fiction.
+ALT NAME     Hartman, Michelle.
+OCLC #       731192037.
+ISN/STD #    9781566568432 (pbk.)
+ISN/STD #    1566568439 (pbk.)
+ISN/STD #    9781566568739 (hardcover)
+ISN/STD #    1566568730 (hardcover)
+ISN/STD #    (OCoLC)731192037 (OCoLC)729687296.
+LCCN         2011024050.
+
+Record 25 of 40
+             FCO
+CALL #       B743.I7 S23 2010.
+AUTHOR       Sadri, Farshad.
+TITLE        How early Muslim scholars assimilated Aristotle and made Iran the
+               intellectual center of the Islamic world : a study of
+               falsafah / Farshad Sadri ; with a foreword by Carl R. Hasler.
+IMPRINT      Lewiston, N.Y. : Edwin Mellen Press, c2010.
+DESCRIPT'N   iv, 217 p. ; 24 cm.
+NOTE         Includes bibliographical references and index.
+NOTE         Commentaries on Aristotle  -- Commentaries on Aristotle and Islam
+               -- Commentaries on Islam -- Commentaries on Islam and Iran -- 
+               Commentaries on Iran.
+SUBJECT      Islamic philosophy -- Iran -- History.
+SUBJECT      Islamic philosophy -- Greek influences.
+SUBJECT      Aristotle -- Influence.
+OCLC #       502875292.
+ISN/STD #    9780773437166.
+ISN/STD #    0773437169.
+ISN/STD #    (OCoLC)502875292.
+LCCN         2010003174.
+
+Record 26 of 40
+             FCO
+CALL #       BP195.I8 M63 2011.
+TITLE        A modern history of the Ismailis : continuity and change in a 
+               Muslim community / edited by Farhad Daftary.
+IMPRINT      London : I. B. Tauris, 2011.
+DESCRIPT'N   xxi, 400 p. ; 24 cm.
+SERIES       Ismaili heritage series ; 13.
+SERIES       Institute of Ismaili studies Ismaili heritage series ; 13.
+SERIES       Ismaili heritage series ; 13.
+NOTE         Includes bibliographical references (p. 365-379) and index.
+SUBJECT      Ismailites -- History -- 19th century.
+SUBJECT      Ismailites -- History -- 20th century.
+SUBJECT      Ismailites -- History -- 21st century.
+ALT NAME     Daftary, Farhad.
+OCLC #       696741519.
+ISN/STD #    9781845117177 (hbk.)
+ISN/STD #    1845117174 (hbk.)
+ISN/STD #    (OCoLC)696741519.
+LCCN         2011384124.
+
+Record 27 of 40
+             CIN
+CALL #       DR565 .P456 2011.
+CALL #       956/.015 22.
+AUTHOR       Philliou, Christine May.
+TITLE        Biography of an empire : governing Ottomans in an age of 
+               revolution / Christine M. Philliou.
+IMPRINT      Berkeley : University of California Press, c2011.
+DESCRIPT'N   xxx, 286 p. : ill., maps ; 24 cm.
+NOTE         Includes bibliographical references and index.
+SUBJECT      Turkey -- History -- Tanzimat, 1839-1876.
+SUBJECT      Phanariots -- Turkey -- History -- 19th century.
+SUBJECT      Vogorides, Stephanos, 1780-1859.
+OCLC #       606404444.
+ISN/STD #    9780520266339 (cloth : alk. paper)
+ISN/STD #    0520266331 (cloth : alk. paper)
+ISN/STD #    9780520266353 (pbk. : alk. paper)
+ISN/STD #    0520266358 (pbk. : alk. paper)
+ISN/STD #    (OCoLC)606404444.
+LCCN         2010013361.
+
+Record 28 of 40
+             CIN
+CALL #       HV6295.J67 R93 2009.
+CALL #       327.5695017/4927 22.
+AUTHOR       Ryan, Curtis R.
+TITLE        Inter-Arab alliances : regime security and Jordanian foreign 
+               policy / Curtis R. Ryan.
+IMPRINT      Gainesville : University Press of Florida, c2009.
+DESCRIPT'N   x, 264 p. ; 24 cm.
+SERIES       Governance and international relations in the Middle East.
+NOTE         Includes bibliographical references (p. [239]-258) and index.
+NOTE         Regime security, alliances, and inter-Arab politics -- Security 
+               dilemmas in Arab politics -- Ideology and political economy in 
+               inter-Arab alliances -- The case studies and Jordanian policy 
+               in context -- Jordan and the October War coalition -- The 
+               Jordanian alliance with Syria -- The Jordanian alliance with 
+               Iraq -- Jordan and the Arab Cooperation Council -- Jordan and 
+               the first U.S.-Iraq War -- Beyond Arab alliances? : Jordan's 
+               peace with Israel -- Ending the Jordanian-Syrian Cold War -- 
+               Jordan and the second U.S.-Iraq War -- Regime security and 
+               shifting Arab alliances.
+SUBJECT      Internal security -- Jordan.
+SUBJECT      Jordan -- Politics and government -- 1999-
+SUBJECT      Jordan -- Foreign relations -- Arab countries.
+SUBJECT      Arab countries -- Foreign relations -- Jordan.
+OCLC #       226356620.
+ISN/STD #    GBA8C1917 bnb.
+ISN/STD #    9780813033075 (alk. paper)
+ISN/STD #    0813033071 (alk. paper)
+ISN/STD #    (OCoLC)226356620.
+LCCN         2008033574.
+
+Record 29 of 40
+             CWR
+CALL #       DS36.95 .B47 2013.
+CALL #       305.892/707 23.
+TITLE        Between the Middle East and the Americas : the cultural politics 
+               of diaspora / edited by Evelyn Alsultany and Ella Shohat.
+IMPRINT      Ann Arbor : University of Michigan Press, c2013.
+DESCRIPT'N   xii, 334 p. : ill. ; 24 cm.
+NOTE         Includes bibliographical references and index.
+NOTE         The cultural politics of the Middle East in the Americas : an 
+               introduction / Ella Shohat and Evelyn Alsultany -- The Moorish 
+               Atlantic : orientalism/occidentalism between the Middle East 
+               and the Americas / Ella Shohat -- Mahjar legacies : a 
+               reinterpretation / Jacob Berman -- Turcos in the mix : 
+               corrupting Arabs in Brazil's racial democracy / John Tofik 
+               Karam -- From baisanos to billionaires : locating Arabs in 
+               Mexico / Theresa Alfaro-Velcamp -- Ali Bla Bla's double-edged 
+               sword : Argentine president Carlos Menem and the negotiation of
+               identity / Christina Civantos -- They hate our freedom, but we 
+               love their belly dance : the spectacle of the shimmy in 
+               contemporary U.S. culture / Amira Jarmakani -- From Arab 
+               terrorists to patriotic Arab Americans : representational 
+               strategies in post-9/11 TV dramas / Evelyn Alsultany -- When 
+               Pakistanis became Middle Eastern : visualizing racial targets 
+               in the global war on terror / Junaid Rana -- A strip, a land, a
+               blaze : Arab American hip-hop and transnational politics / 
+               Sunaina Maira -- Muslim digital diasporas and the gay 
+               pornographic cyber imaginary / Karim Tartoussieh -- Drawing the
+               line : a rhetorical analysis of the Mohammed cartoons 
+               controversy as it unfolded in Denmark and the United States / 
+               Helle Rytkönen -- Turcophobia or Turcophilia : politics of 
+               representing Arabs in Latin America / Heba El Attar -- User-
+               friendly Islams : translating Rumi in France and the United 
+               States / Ziad Elmarsafy -- "Axising" Iran : the politics of 
+               domestication and cultural translation / R. Shareah
+               Taleghani -- The uneven bridge of translation : Turkey in 
+               between East/West / Shouleh Vatanabadi.
+SUBJECT      Arabs -- Ethnic identity.
+SUBJECT      Arabs -- Social conditions.
+SUBJECT      Arab Americans -- Ethnic identity.
+SUBJECT      Arab Americans -- Social conditions.
+SUBJECT      Arabs -- Western countries -- Ethnic identity.
+SUBJECT      Arabs -- Western countries -- Social conditions.
+SUBJECT      Middle East -- Relations -- United States.
+SUBJECT      United States -- Relations -- Middle East.
+SUBJECT      Middle East -- Relations -- Western countries.
+SUBJECT      Western countries -- Relations -- Middle East.
+ALT NAME     Alsultany, Evelyn.
+ALT NAME     Shohat, Ella, 1959-
+OCLC #       793221889.
+ISN/STD #    9780472028771 (e-book)
+ISN/STD #    0472028774 (e-book)
+ISN/STD #    9780472069446 (pbk. : alk. paper)
+ISN/STD #    0472069446 (pbk. : alk. paper)
+ISN/STD #    9780472099443 (cloth : alk. paper)
+ISN/STD #    0472099442 (cloth : alk. paper)
+LCCN         2012033640.
+
+Record 30 of 40
+             CWR
+CALL #       HQ691.7 .K46 2010.
+CALL #       306.810962/0904 22.
+AUTHOR       Kholoussy, Hanan.
+TITLE        For better, for worse : the marriage crisis that made modern 
+               Egypt / Hanan Kholoussy.
+IMPRINT      Stanford, Calif. : Stanford University Press, c2010.
+DESCRIPT'N   xi, 188 p. : ill. ; 23 cm.
+NOTE         Includes bibliographical references and index.
+NOTE         The making and marrying of modern Egyptians -- The grooming of 
+               men -- The wedding of women -- Deterring divorce, modernizing 
+               marriage -- Mentoring mothers, fettering fathers -- Conclusion.
+SUBJECT      Marriage -- Egypt -- History -- 20th century.
+SUBJECT      Nationalism -- Egypt -- History -- 20th century.
+OCLC #       435422989.
+ISN/STD #    (OCoLC)435422989.
+ISN/STD #    9780804769594 (cloth : alk. paper)
+ISN/STD #    0804769591 (cloth : alk. paper)
+ISN/STD #    9780804769600 (pbk. : alk. paper)
+ISN/STD #    0804769605 (pbk. : alk. paper)
+ISN/STD #    40017643316.
+LCCN         2009035618.
+
+Record 31 of 40
+             CWR
+CALL #       DS247.O68 V32 2009.
+CALL #       953.53 22.
+AUTHOR       Valeri, Marc.
+TITLE        Oman : politics and society in the Qaboos State / Marc Valeri.
+IMPRINT      New York : Columbia University Press ; Paris : In Association 
+               with CERI/Sciences Po, c2009.
+DESCRIPT'N   viii, 284 p. : geneal. tables ; 23 cm.
+SERIES       The CERI/Science Po series in comparative politics and 
+               international studies.
+SERIES       CERI series in comparative politics and international studies.
+NOTE         Includes bibliographical references (p. 261-267) and index.
+NOTE         Foundations of the modern state -- Two legitimacies and no
+               state -- The founding conflicts of the modern national identity
+               -- Legitimisation by the welfare state -- National identity 
+               building -- The reinvented political tradition -- Laborious 
+               renewal of the basis of the regime -- National identity 
+               challenged?
+NOTE         "With the help of British advisors, Sultan Qaboos overthrew his 
+               father, the ruler of Oman, in 1970, yet few expected the new 
+               leader to thrive. Sultan Qaboos was an unfamiliar figure to his
+               own people, and Oman was a poor country wracked by multiple 
+               civil wars. Nevertheless, Sultan Qaboos cemented his rule by 
+               introducing a policy of national unification and assimilating 
+               all of Oman into an oil rentier state framework. He also 
+               promoted the idea that the figure of the sultan could embody 
+               the state, which later led to a celebration of the sultan as an
+               incarnation of Oman's "renaissance." Based on years of
+               research, Marc Valeri treats the political career of Sultan 
+               Qaboos as a case study revealing the social and political 
+               mechanisms of authoritarianism in postcolonial states. Valeri 
+               examines how Sultan Qaboos established and constantly renewed 
+               his base in order to meet internal and external challenges to 
+               his power. He also considers what happens when one part of this
+               model, namely an oil-rent economy, falters, and the privileges 
+               enjoyed by half the population are no longer tenable. In 
+               particular, Valeri addresses the creation of a different model 
+               and how this pursuit depends as much on the network of power 
+               and privilege that has developed alongside polity as on the 
+               interference of economic and technological forces. At the same 
+               time, different and overlapping identities-ethnic, religious, 
+               historical, or a combination thereof-persist and in some cases 
+               reemerge, intertwining with challenges to wider state- and 
+               nation-building exercises and to the regime's legitimizing 
+               strategies. In conclusion, Valeri expands his focus beyond the 
+               state of Oman, evaluating the practices of other Arab 
+               monarchies in Morocco, Jordan, and the Persian Gulf" -- from 
+               book jacket.
+SUBJECT      Qabus bin Said, Sultan of Oman, 1940-
+SUBJECT      Oman -- Politics and government -- 20th century.
+SUBJECT      Oman -- History -- 20th century.
+SUBJECT      Oman -- Social conditions -- 20th century.
+ALT TITLE    Politics and society in the Qaboos State.
+OCLC #       226360278.
+ISN/STD #    9780231700887 (cloth : alk. paper)
+ISN/STD #    0231700881 (cloth : alk. paper)
+LCCN         2008048752.
+
+Record 32 of 40
+             LOR
+CALL #       BP173.6 .H29 2013.
+AUTHOR       Hallaq, Wael B., 1955-
+TITLE        The impossible state : Islam, politics, and modernity's moral 
+               predicament / Wael B. Hallaq.
+IMPRINT      New York [N.Y.] : Columbia University Press, c2013.
+DESCRIPT'N   xiv, 256 p. ; 24 cm.
+NOTE         Includes bibliographical references (p. [221]-243) and index.
+NOTE         Premises -- The modern state -- Separation of powers: rule of law
+               or rule of the state? -- The legal, the political, and the 
+               moral -- The political subject and moral technologies of the 
+               self -- Beleaguering globalization and moral economy -- The 
+               central domain of the moral.
+NOTE         Wael B. Hallaq boldly argues that the "Islamic state," judged by 
+               any standard definition of what the modern state represents, is
+               both impossible and inherently self-contradictory. Comparing 
+               the legal, political, moral, and constitutional histories of 
+               premodern Islam and Euro-America, he finds the adoption and 
+               practice of the modern state to be highly problematic for 
+               modern Muslims. He also critiques more expansively modernity's 
+               moral predicament, which renders impossible any project resting
+               solely on ethical foundations. The modern state not only 
+               suffers from serious legal, political, and constitutional 
+               issues, Hallaq argues, but also, by its very nature, fashions a
+               subject inconsistent with what it means to be, or to live as, a
+               Muslim. By Islamic standards, the state's technologies of the 
+               self are severely lacking in moral substance, and today's 
+               Islamic state, as Hallaq shows, has done little to advance an 
+               acceptable form of genuine Shari'a governance. The Islamists' 
+               constitutional battles in Egypt and Pakistan, the Islamic legal
+               and political failures of the Iranian Revolution, and similar 
+               disappointments underscore this fact. Nevertheless, the state 
+               remains the favored template of the Islamists and the ulama 
+               (Muslim clergymen). Providing Muslims with a path toward 
+               realizing the good life, Hallaq turns to the rich moral 
+               resources of Islamic history. Along the way, he proves 
+               political and other "crises of Islam" are not unique to the 
+               Islamic world nor to the Muslim religion. These crises are 
+               integral to the modern condition of both East and West, and by 
+               acknowledging these parallels, Muslims can engage more 
+               productively with their Western counterparts.
+SUBJECT      Islam and state.
+SUBJECT      Islam and politics.
+OCLC #       786003139.
+ISN/STD #    0231162561 (alk. paper)
+ISN/STD #    (OCoLC)786003139 (OCoLC)794366538.
+LCCN         2012014567.
+
+Record 33 of 40
+             CWR
+CALL #       JQ1842.A38 R433 2012.
+CALL #       953.305/3 23.
+CALL #       JQ1842.A38 R433 2012.
+AUTHOR       Day, Stephen W., 1961-
+TITLE        Regionalism and rebellion in Yemen : a troubled national union / 
+               Stephen W. Day.
+IMPRINT      New York : Cambridge University Press, 2012.
+DESCRIPT'N   xxx, 336 p. : ill., maps ; 24 cm.
+SERIES       Cambridge Middle East studies ; 37.
+NOTE         Includes bibliographical references and index.
+NOTE         "Like other Arab revolutions in 2011, it is said that Yemen's 
+               rebellion was modeled on street protests in Tunis and Cairo. As
+               this erudite new study explains, however, what happened in 
+               Yemen is far from being a mere echo of events elsewhere. In 
+               fact, the popular uprisings which came as a surprise in Tunisia
+               and Egypt, Libya and Syria, were already well underway in
+               Yemen. As early as 2007, this country on the southern tip of 
+               the Arabian Peninsula was embroiled in sit-ins, demonstrations,
+               and open rebellion against the government. The author ably 
+               demonstrates how Yemen's political upheaval is rooted in 
+               divisions and conflicts of the past, especially the country's 
+               troubled national unification in 1990. Based on years of in-
+               depth field research, this book unravels the complexities of 
+               the Yemeni state and its domestic politics with a particular 
+               focus on the post-1990 years. The central thesis is that Yemen 
+               continues to suffer from regional fragmentation which has 
+               endured for centuries. En route the book discusses the rise of 
+               President Salih, his tribal and family connections, Yemen's 
+               civil war in 1994, the war's consequences later in the decade, 
+               the spread of radical movements after the US military response 
+               to 9/11, and finally developments leading to the historic 
+               events of 2011. Politics in this strategically important 
+               country is crucial for many reasons, not least on account of 
+               its links to al-Qaeda terrorism. The United States and western 
+               allies have good reason to regard Yemen as a security risk. 
+               This book sets a new standard for scholarship on Yemeni 
+               politics, and it is essential reading for anyone interested in 
+               the modern Middle East, the 2011 Arab revolts, and 21st century
+               Islamic politics"--Provided by publisher.
+SUBJECT      Regionalism -- Yemen (Republic)
+SUBJECT      Government, Resistance to -- Yemen (Republic)
+SUBJECT      Yemen (Republic) -- Politics and government -- 21st century.
+SUBJECT      Yemen (Republic) -- Politics and government -- 20th century.
+SUBJECT      Yemen (Republic) -- Strategic aspects.
+OCLC #       755904509.
+ISN/STD #    9781107022157 (hardback)
+ISN/STD #    1107022150 (hardback)
+ISN/STD #    9781107606593 (paperback)
+ISN/STD #    1107606594 (paperback)
+LCCN         2011039452.
+
+Record 34 of 40
+             MIA
+CALL #       DS244.52 .I97 2012.
+AUTHOR       Izraeli, S.
+TITLE        Politics and society in Saudi Arabia : the crucial years of 
+               development, 1960-1982 / Sarah Yizraeli.
+IMPRINT      New York : Columbia University Press, c2012.
+DESCRIPT'N   xxi, 336 p. : 23 cm.
+NOTE         "Whether Saudi Arabia can modernize without major social and 
+               religious upheaval remains to be seen, yet Yizraeli's research 
+               tracks several key avenues the  regime may follow and the 
+               possible responses of its powerful elite."--P. [2] jacket.
+NOTE         Includes bibliographical references (p. 309-320) and index.
+SUBJECT      Āl Saʻūd, House of.
+SUBJECT      Nation-building -- Saudi Arabia.
+SUBJECT      Economic development -- Saudi Arabia.
+SUBJECT      Social change -- Saudi Arabia.
+SUBJECT      Saudi Arabia -- Politics and government -- 20th century.
+OCLC #       730413705.
+LCCN         2011034734.
+
+Record 35 of 40
+             MIA
+CALL #       P95.82.A65 M44 2014.
+TITLE        Media evolution on the eve of the Arab Spring / edited by Leila 
+               Hudson, Adel Iskandar, and Mimi Kirk.
+EDITION      First edition.
+IMPRINT      New York, NY : Palgrave Macmillan, 2014.
+DESCRIPT'N   xi, 285 pages ; 23 cm.
+SERIES       Palgrave Macmillan series in international political 
+               communication.
+SERIES       Palgrave Macmillan series in international political 
+               communication.
+NOTE         "Leading scholars of Arab media come together to offer 
+               unparalleled insight into the communication environment that 
+               preceded the political and societal ruptures that shook the 
+               Arab world 2010-2011. Examining the role of competing publics, 
+               the state's ability to construct meaning, and social and 
+               political change in the region, they unsettle 
+               oversimplifications of much of the existing literature and 
+               examine numerous precipitating conditions, including, political
+               stagnation, civil engagement, new media, rural and urban 
+               divides, Islamist blogospheres, video games, Turkish and Syrian
+               dramas, mediated diplomacy, and diaspora"-- Provided by 
+               publisher.
+NOTE         Includes bibliographical references and index.
+NOTE         Machine generated contents note: -- Publics, Imaginaries, Soft 
+               Power, and Epistemologies on the Eve of the Arab Uprisings; 
+               Leila Hudson and Adel Iskandar SOCIAL CHANGE AND POLITICAL 
+               CULTURE 1. Arab Media, Political Stagnation, and Civil 
+               Engagement: Reflections on the Eve of the Arab Spring; Mohamed 
+               Zayani 2. New Media, Social Change, and the Communication 
+               Revolution in an Egyptian Village; Sahar Khamis 3. Mapping the 
+               Arabic Blogosphere: Politics, Culture, and Dissent; Bruce 
+               Etling, John Kelly, Robert Faris, and John Palfrey 4. From 
+               Brotherhood to Blogosphere: Dynamics of Cyberactivism and 
+               Identity in the Egyptian Ikhwan; Courtney RadschNEW GENRES AND 
+               LITERACIES 5. Preaching Islam to the Video Game Generation: New
+               Media Literacies and Religious Edutainment in the Arab World; 
+               Vit Sisler 6. Neopatriarchy in Syrian and Turkish Television 
+               Drama: Between the Culture Industry and the Dialect
+               Imagination; Leila Hudson 7. Media Fatwas and Fatwa Editors: 
+               Challenging and Preserving Yusuf al-Qaradawi's Religious 
+               Authority; Bettina Graf 8. Technology Literacies of the New 
+               Media: Phrasing the World in the 'Arab Easy' (R)evolution; Yves
+               Gonzalez-Quijano GLOBAL EFFECTS 9. BBC Broadcasting in the 
+               Middle East: The Evolution of Public Diplomacy; Annabelle 
+               Sreberny 10. New Media and Public Diplomacy in the New Arab 
+               World; Philip Seib 11. Al Jazeera English as a Conciliatory 
+               Medium; Mohammed el-Nawawy and Shawn Powers 12. Imagined 
+               Coherence: Transnational Media and the Arab Diaspora in Europe;
+               Khalil Rinnawi EVOLUTION OF MEDIA THEORIES13. The State of Arab
+               Journalism Studies; Noha Mellor 14. Arab and Western Media 
+               Systems Typologies; Kai Hafez 15. Defying Definition: Toward 
+               Reflexivity in 'Arab Media' Studies; Adel Iskandar.
+SUBJECT      Mass media -- Political aspects -- Arab countries.
+SUBJECT      Mass media -- Social aspects -- Arab countries.
+SUBJECT      Social change -- Arab countries.
+SUBJECT      Arab countries -- Politics and government -- 21st century.
+ALT NAME     Hudson, Leila, editor.
+ALT NAME     Iskander, Adel, editor.
+ALT NAME     Kirk, Mimi, editor.
+OCLC #       886489713.
+LCCN         2014024779.
+
+Record 36 of 40
+             CIN
+CALL #       BP166.14.F85 R34 2015.
+CALL #       363.325094 23.
+AUTHOR       Rabasa, Angel.
+TITLE        Eurojihad : patterns of Islamist radicalization and terrorism in 
+               Europe / Angel Rabasa, Cheryl Benard.
+IMPRINT      New York, NY : Cambridge University Press, 2015.
+DESCRIPT'N   xvi, 229 pages : illustrations ; 24 cm.
+NOTE         Includes bibliographical references (pages 197-216) and index.
+NOTE         "Throughout history, factors of radicalization have involved 
+               social and economic conditions and issues of identity. Patterns
+               of Islamist radicalization in Europe reflect the historical 
+               experience of European Muslim communities, particularly their 
+               links to their home countries, the prevalence of militant 
+               groups there, and the extent to which factors of radicalization
+               in Muslim countries transfer to European Muslim diasporas. 
+               Eurojihad examines the sources of radicalization in Muslim 
+               communities in Europe and the responses of European governments
+               and societies. In an effort to understand the scope and 
+               dynamics of Islamist extremism and terrorism in Europe, this 
+               book takes into account recent developments, in particular the 
+               emergence of Syria as a major destination of European
+               jihadists. Angel Rabasa and Cheryl Benard describe the history,
+               methods, and evolution of jihadist networks in Europe with 
+               particular nuance, providing a useful primer for the layperson 
+               and a sophisticated analysis for the expert"-- Provided by 
+               publisher.
+NOTE         1. Introduction -- 2. Europe's Muslim populations -- 3. Salafism 
+               and radical Islamism in Europe -- 4. Origins of radical 
+               Islamist networks in Europe -- 5. Radicalization patterns -- 6.
+               Radicalization and recruitment nodes -- 7. Evolution of radical
+               networks in Europe -- 8. Terrorist operations and tactics -- 9.
+               New European approaches -- 10. Key judgments.
+SUBJECT      Islamic fundamentalism -- Europe.
+SUBJECT      Radicalism -- Religious aspects -- Islam.
+SUBJECT      Terrorism -- Religious aspects -- Islam.
+SUBJECT      Muslims -- Europe -- Social conditions.
+SUBJECT      Jihad.
+SUBJECT      Terrorism -- Prevention -- Government policy -- Europe.
+ALT NAME     Benard, Cheryl, 1953-
+OCLC #       881498533.
+ISN/STD #    9781107078932 (hardback)
+ISN/STD #    1107078938 (hardback)
+ISN/STD #    9781107437203 (pbk.)
+ISN/STD #    1107437202 (pbk.)
+ISN/STD #    (OCoLC)881498533.
+LCCN         2014018139.
+
+Record 37 of 40
+             MIA
+CALL #       DS63.18 .R44 2014.
+TITLE        Regional powers in the Middle East : new constellations after the
+               Arab revolts / edited by Henner Fürtig.
+EDITION      First edition.
+IMPRINT      New York, NY : Palgrave Macmillan, 2014.
+DESCRIPT'N   vi, 232 pages ; 23 cm.
+SERIES       The modern Muslim world.
+SERIES       Modern Muslim world.
+NOTE         Introduction : the concept of regional power as applied to the 
+               Middle East / Martin Beck -- Iran : winner or looser of the 
+               "Arab Spring"? / Henner Fürtig -- What determines Iranian
+               power? / Arshin Adib-Moghaddam -- Post-Mubarak Egypt : visions 
+               and prospects for a new regional leadership role / Annette 
+               Ranko and Elizabeth Monier -- Egypt : the "regional reference" 
+               in the Middle East / Mustafa El Labbad -- Before the Arab 
+               Revolt and after : Turkey's transformed regional power status 
+               in the Middle East / Andre Bank and Roy Karadag -- Turkey's 
+               "return" to the Middle East / Meliha Benli Altunisik --
+               Israel : an underestimated player in the new "Middle East game"
+               / Robert Kappel -- Israel as a regional power : prospects and 
+               problems / Mark A. Heller -- Saudi Arabia : a conservative 
+               p(l)ayer on the retreat? / Thomas Richter -- Saudi Arabia and 
+               the Arab Spring : opportunities and challenges of security / 
+               Saud Al Tamamy -- Conclusion : prospects for new regional 
+               powers in the Middle East / Henner Fürtig.
+NOTE         Includes bibliographical references and index.
+SUBJECT      Middle East -- Foreign relations -- 21st century.
+SUBJECT      Middle East -- Politics and government -- 21st century.
+SUBJECT      Regionalism -- Middle East.
+SUBJECT      Middle powers.
+SUBJECT      Arab Spring, 2010-
+ALT NAME     Fürtig, Henner, editor of compilation.
+OCLC #       883305107.
+LCCN         2014026562.
+
+Record 38 of 40
+             CIN
+CALL #       JZ1670 .F67 2002.
+CALL #       327/.0956 21.
+TITLE        The foreign policies of Middle East states / edited by Raymond 
+               Hinnebusch, Anoushiravan Ehteshami.
+IMPRINT      Boulder, Colo. : Lynne Rienner Publishers, 2002.
+DESCRIPT'N   viii, 381 p. : map ; 24 cm.
+SERIES       The Middle East in the international system.
+SERIES       Middle East in the international system.
+NOTE         Includes bibliographical references (p. 355-364) and index.
+NOTE         Introduction : the analytical framework ; The Middle East 
+               regional system / Raymond Hinnebusch -- The impact of the 
+               international system on the Middle East / B.A. Roberson -- The 
+               challenge of security in the post-Gulf War Middle East system /
+               Nadia El-Shazly and Raymond Hinnebusch -- The foreign policy of
+               Egypt / Raymond Hinnebusch -- The foreign policy of Israel / 
+               Clive Jones -- The foreign policy of Syria / Raymond Hinnebusch
+               -- The foreign policy of Iraq / Charles Tripp -- The foreign 
+               policy of Saudi Arabia / F. Gregory Gause III -- The foreign 
+               policy of Libya / Tim Niblock -- The foreign policy of
+               Tunisia / Emma C. Murphy -- The foreign policy of Yemen / Fred 
+               Halliday -- The foreign policy of Iran / Anoushiravan Ehteshami
+               -- The foreign policy of Turkey / Philip Robins -- Conclusion :
+               patterns of policy / Anoushiravan Ehteshami and Raymond 
+               Hinnebusch.
+SUBJECT      Middle East -- Foreign relations.
+ALT NAME     Hinnebusch, Raymond A.
+ALT NAME     Ehteshami, Anoushiravan.
+OCLC #       47182307.
+ISN/STD #    1588260445.
+ISN/STD #    1588260208 (pbk.)
+LCCN         2001041775.
+
+Record 39 of 40
+             CWR
+CALL #       D1065.M43 Y68 2014.
+CALL #       327.4056 23.
+AUTHOR       Youngs, Richard, 1968- author.
+TITLE        Europe in the new Middle East : opportunity or exclusion? / 
+               Richard Youngs.
+EDITION      First edition.
+IMPRINT      Oxford : Oxford University Press, 2014.
+DESCRIPT'N   v, 253 pages ; 23 cm.
+SERIES       Oxford studies in democratization.
+SERIES       Oxford studies in democratization.
+NOTE         Includes bibliographical references and index.
+NOTE         The challenge of a new Middle East -- Five analytical
+               narratives -- The contours of a new Middle East -- Prior to the
+               upheavals -- Redemption : helping transitions -- Revisionist 
+               reflex : limiting transitions -- The fading spectre of 
+               radicalism? -- Syria, Iran, and regional upheavals -- The Libya
+               conflict -- Economic and energy interests -- The Israel-
+               Palestine conflict : catalyst or distraction?
+NOTE         Examines the European Union's response to the Arab spring, from 
+               late 2010 to the beginning of 2014. It investigates how far the
+               EU changed its policies towards the Middle East and North 
+               Africa (MENA) region in the aftermath of the Arab spring, and 
+               what impact European policies had in either helping or 
+               hindering democratization reforms during this period. It also 
+               explores what impact the Arab spring had on European security 
+               and economic interests.--Provided by publisher.
+SUBJECT      Arab Spring, 2010-
+SUBJECT      Europe -- Foreign relations -- Middle East.
+SUBJECT      Middle East -- Foreign relations -- Europe.
+OCLC #       893649002   .
+ISN/STD #    (OCoLC)893649002.
+ISN/STD #    GBB473861 bnb.
+ISN/STD #    9780199647040.
+ISN/STD #    0199647046.
+ISN/STD #    60001952277.
+LCCN         2014941593.
+
+Record 40 of 40
+             MIA
+CALL #       JQ1850.A91 .R68 2015.
+TITLE        Routledge handbook of the Arab Spring : rethinking 
+               democratization / edited by Larbi Sadiki.
+IMPRINT      London ; New York, : Routledge, 2015.
+DESCRIPT'N   xxxviii, 679 pages : illustrations ; 25 cm.
+SERIES       Routledge handbooks.
+SERIES       Routledge handbooks.
+NOTE         "The self-immolation of Mohammed Bouazizi in Tunisia in December 
+               2010 heralded the arrival of the 'Arab Spring,' a startling, 
+               yet not unprecedented, era of profound social and political 
+               upheaval. The meme of the Arab Spring is characterised by 
+               bottom-up change, or the lack thereof, and its effects are 
+               still unfurling today. The Routledge Handbook of the Arab 
+               Spring seeks to provide a departure point for ongoing 
+               discussion of a fluid phenomenon on a plethora of topics, 
+               including: - Contexts and contests of democratisation - The 
+               sweep of the Arab Spring - Egypt - Women and the Arab Spring - 
+               Agents of change and the technology of protest - Impact of the 
+               Arab Spring in the wider Middle East and further afield 
+               Collating a wide array of viewpoints, specialisms, biases, and 
+               degrees of proximity and distance from events that shook the 
+               Arab world to its core, the Handbook is written with the reader
+               in mind, to provide students, practitioners, diplomats, policy-
+               makers and lay readers with contextualization and knowledge, 
+               and to set the stage for further discussion of the Arab
+               Spring"-- Provided by publisher.
+NOTE         Includes bibliographical references and index.
+NOTE         Preface: The Meme of the Arab Spring / Larbi Sadiki -- Part I. 
+               Introducing the Arab Spring: Reflections on Contexts and 
+               Contests of Democratization -- Part II. The 'Travel' of 
+               Revolution: From Tunis to Sanaa -- Part III. Egypt in the Arab 
+               Spring: Islam, the State and the Military -- Part IV. Women's 
+               Voices in the Arab Spring -- Part V. Arab Spring: Breakdown of 
+               the Old Social Compact -- Part VI Uprisings: The Technology of 
+               Protest -- Part VII. The Arab Spring: The Wider Middle East -- 
+               Part VIII. The Arab Spring in a Global Context.
+SUBJECT      Arab Spring, 2010-
+SUBJECT      Revolutions -- Arab countries -- History -- 21st century.
+SUBJECT      Democratization -- Arab countries -- History -- 21st century.
+ALT NAME     Sadiki, Larbi.
+OCLC #       886381200.
+LCCN         2014023254.
