@@ -1,0 +1,513 @@
+Record 1 of 17
+             FCO
+CALL #       DK971.T64 W45 2013.
+AUTHOR       Welsford, Thomas.
+TITLE        Four types of loyalty in early modern central Asia : the Tūqāy-
+               Timūrid takeover of greater Mā Warā al-Nahr, 1598-1605 / by 
+               Thomas Welsford.
+IMPRINT      Leiden ; Boston : Brill, 2013.
+DESCRIPT'N   xxii, 365 p. : ill. ; 25 cm.
+SERIES       Brill's Inner Asian library, 1566-7162 ; v. 27.
+SERIES       Brill's Inner Asian library ; v. 27.
+NOTE         Includes bibliographical references and index.
+SUBJECT      Transoxiana -- History.
+SUBJECT      Transoxiana -- Kings and rulers.
+SUBJECT      Timurids.
+SUBJECT      Allegiance.
+OCLC #       808244829.
+ISN/STD #    9789004231870 (hardback : alk. paper)
+ISN/STD #    9004231870 (hardback : alk. paper)
+ISN/STD #    9789004236752 (e-book)
+ISN/STD #    9004236759 (e-book)
+ISN/STD #    40021683344.
+ISN/STD #    (OCoLC)808244829.
+LCCN         2012032220.
+
+Record 2 of 17
+             MIA
+CALL #       PL65.K55 P75 2013.
+AUTHOR       Prior, Daniel.
+TITLE        The Šabdan Baatır codex : epic and the writing of northern 
+               Kirghiz history : edition, translation and interpretations, 
+               with a facsimile of the unique manuscript / by Daniel Prior.
+IMPRINT      Leiden ; Boston : Brill, 2013.
+DESCRIPT'N   xi, 470 p. : ill., maps, facsims., gen. table ; 25 cm.
+SERIES       Brill's Inner Asian library, 1566-7162 ; v. 28.
+SERIES       Brill's Inner Asian library ; v. 28.
+NOTE         Includes bibliographical references (p. [373]-399) and index.
+SUBJECT      Kyrgyz literature -- History and criticism.
+SUBJECT      Epic literature, Kyrgyz -- History and criticism.
+SUBJECT      Historiography -- Kyrgyzstan.
+SUBJECT      Kyrgyzstan -- History -- Sources.
+OCLC #       806981095.
+LCCN         2012030454.
+
+Record 3 of 17
+             CIN
+CALL #       B340.A8 A73 2011.
+CALL #       171/.3 23.
+AUTHOR       Aristotle.
+TITLE        Nicomachean ethics. Arabic & Greek.
+TITLE        Die Nikomachische Ethik des Aristoteles in arabischer Übersetzung
+               / Manfred Ullmann.
+IMPRINT      Wiesbaden : Harrassowitz, 2011-
+DESCRIPT'N   v. <1-  ; 25 cm.
+NOTE         Introd. in German; handwritten text in Arabic and Greek.
+NOTE         Includes bibliographical references.
+NOTE         T. 1.  Wortschatz.
+SUBJECT      Ethics -- Early works to 1800.
+ALT NAME     Ullmann, Manfred.
+OCLC #       715151987.
+ISN/STD #    9783447064835 (T. 1 : alk. paper)
+ISN/STD #    3447064838 (T. 1 : alk. paper)
+ISN/STD #    (OCoLC)715151987.
+LCCN         2011454452.
+
+Record 4 of 17
+             CIN
+CALL #       B744.3 .E587 2011.
+CALL #       180 1.
+AUTHOR       Entretiens sur l'Antiquité classique (2010 : Vandœuvres, 
+               Switzerland)
+TITLE        Entre Orient et Occident : la philosophie et la science gréco-
+               romaines dans le monde arabe : huit exposés suivis de 
+               discussions / par Peter Adamson ... [et al.] ; introduction de 
+               Richard Goulet et Ulrich Rudolph ; entretiens préparés par 
+               Richard Goulet et Ulrich Rudolph ; présidés par Christoph 
+               Riedweg et édités par Pascale Derron.
+IMPRINT      Genève : Fondation Hardt, c2011.
+DESCRIPT'N   xxxvii, 406 p. : ill. ; 23 cm.
+SERIES       Entretiens sur l'Antiquité classique, 0071-0822 ; 57.
+SERIES       Entretiens sur l'Antiquité classique (Series) ; t. 57.
+NOTE         "Vandoeuvres-Genève, 22-27 août 2010."
+NOTE         Includes bibliographical references and indexes.
+NOTE         Text in French, German, English and Italian.
+SUBJECT      Philosophy, Arab -- Classical influences -- Congresses.
+SUBJECT      Philosophy, Ancient -- Congresses.
+ALT NAME     Adamson, Peter, 1972-
+ALT NAME     Goulet, Richard, 1943-
+ALT NAME     Rudolph, Ulrich.
+ALT NAME     Riedweg, Christoph.
+ALT NAME     Derron, Pascale.
+ALT NAME     Fondation Hardt pour l'étude de l'Antiquité classique.
+OCLC #       754164018.
+ISN/STD #    9782600007573.
+ISN/STD #    2600007571.
+ISN/STD #    (OCoLC)754164018.
+
+Record 5 of 17
+             XAV
+CALL #       PJ6761 .L34 2013.
+TITLE        African Arabic [electronic resource] : approaches to dialectology
+               / ed. by Mena Lafkioui.
+IMPRINT      Berlin : De Gruyter Mouton, cop. 2013.
+DESCRIPT'N   1 online resource (text (viii, 301 pages))
+SERIES       Trends in linguistics, Studies and monographs ; 258.
+SERIES       EBSCO eBook collection.
+NOTE         Includes bibliographical references and index.
+NOTE         Addresses of contributors; Introduction; Grammar studies in 
+               African Arabic dialectology; Chapter 1. Native and non-native 
+               varieties of Arabic in an emerging urban centre of western 
+               Sudan. Evidence from Kadugli; Chapter 2. Reinventing negation 
+               patterns in Moroccan Arabic; Chapter 3. The prosody of Juba 
+               Arabic: split prosody, morphophonology, and slang; Chapter 4. 
+               Grammaticalized uses of the verb?a(a) in Arabic: a Maghrebian 
+               specificity?; Chapter 5. Some new information about Bongor 
+               Arabic; Lexicological studies in African Arabic dialectology.
+NOTE         Chapter 6. Strata on loanwords from Arabic and other Semitic 
+               languages in Northern SomaliChapter 7. Sub-Saharan lexical 
+               influence in North African Arabic and Berber; Chapter 8. 
+               Lexical aspects of Maghrebi Arabic; Chapter 9. Arab-Berber 
+               contacts in the Middle Ages and ancient Arabic dialects: new 
+               evidence from an old Iba?ite religious text; Index.
+SUBJECT      Arabic language -- Dialects -- Africa, North.
+SUBJECT      Arabic language -- Africa, North.
+SUBJECT      Arabic language -- Dialectology.
+SUBJECT      Languages in contact -- Africa, North.
+GENRE/FORM   Electronic books.
+ALT NAME     Lafkioui, Mena.
+LINK         Print version: African Arabic. Berlin : De Gruyter Mouton, cop. 
+               2013 (DLC)  2013011988.
+OCLC #       842119111.
+ISN/STD #    9783110292343 (electronic bk.)
+ISN/STD #    3110292343 (electronic bk.)
+ISN/STD #    3110292327.
+ISN/STD #    9783110292329.
+ISN/STD #    (OCoLC)842119111.
+
+Record 6 of 17
+             KSU
+CALL #       DT173 .J813 2012.
+CALL #       956.013 22.
+AUTHOR       Manṣūr, al-Kātib, -approximately 1000.
+TITLE        Inside the immaculate portal : a history from early Fatimid 
+               archives : a new edition and English translation of Manṣūr al-
+               ʻAzīzī al-Jawdharī's biography of al-Ustādh Jawdhar, the Sīrat 
+               al-Ustādh Jawdhar / edited and translated by Hamid Haji.
+IMPRINT      London : I.B. Tauris in association with the Institute of Ismaili
+               Studies, 2012.
+DESCRIPT'N   xxii, 183, 196, 8 pages : maps, genealogical tables ; 23 cm.
+SERIES       The Institute of Ismaili Studies, Ismaili texts and translation 
+               series ; 16.
+NOTE         Includes bibliographical references (pages 167-176, 1st set) and 
+               indexes.
+SUBJECT      Jawdhar, -972 or 973.
+SUBJECT      Fatimites -- History -- Sources.
+ALT NAME     Manṣūr, al-Kātib, -approximately 1000. Sīrat al-ustādh Jawdhar. 
+               English.
+ALT NAME     Manṣūr, al-Kātib, -approximately 1000. Sīrat al-ustādh Jawdhar. 
+               Arabic.
+ALT NAME     Haji, Hamid, 1945-
+ALT TITLE    Sīrat al-ustādh Jawdhar.
+OCLC #       781433264.
+ISN/STD #    9781780762685.
+ISN/STD #    1780762682.
+LCCN         2012368488.
+
+Record 7 of 17
+             OU
+CALL #       BP55 .S46 2012.
+AUTHOR       Shoemaker, Stephen J., 1968-
+TITLE        The death of a prophet : the end of Muhammad's life and the 
+               beginnings of Islam / Stephen J. Shoemaker.
+EDITION      1st ed.
+IMPRINT      Philadelphia : University of Pennsylvania Press, c2012.
+DESCRIPT'N   408 p. ; 24 cm.
+SERIES       Divinations : rereading late ancient religion.
+SERIES       Divinations.
+NOTE         Includes bibliographical references (p. [353]-390) and index.
+NOTE         "A prophet has appeared, coming with the Saracens": Muhammad's 
+               leadership during the conquest of Palestine according to 
+               seventh- and eighth-century sources -- The end of Muhammad's 
+               life in early Islamic memory: the witness of the Sīra tradition
+               -- The beginnings of Islam and the end of days: Muhammad as 
+               eschatological prophet -- From believers to Muslims, from 
+               Jerusalem to the Ḥijāz: confessional identity and sacred 
+               geography in early Islam.
+NOTE         The oldest Islamic biography of Muhammad, written in the mid-
+               eighth century, relates that the prophet died at Medina in 632,
+               while earlier and more numerous Jewish, Christian, Samaritan, 
+               and even Islamic sources indicate that Muhammad survived to 
+               lead the conquest of Palestine, beginning in 634-35. Although 
+               this discrepancy has been known for several decades, Stephen J.
+               Shoemaker here writes the first systematic study of the various
+               traditions. Using methods and perspectives borrowed from 
+               biblical studies, Shoemaker concludes that these reports of 
+               Muhammad's leadership during the Palestinian invasion likely 
+               preserve an early Islamic tradition that was later revised to 
+               meet the needs of a changing Islamic self-identity. Muhammad 
+               and his followers appear to have expected the world to end in 
+               the immediate future, perhaps even in their own lifetimes, 
+               Shoemaker contends. When the eschatological Hour failed to 
+               arrive on schedule and continued to be deferred to an ever more
+               distant point, the meaning of Muhammad's message and the faith 
+               that he established needed to be fundamentally rethought by his
+               early followers. The larger purpose of The Death of a Prophet 
+               exceeds the mere possibility of adjusting the date of 
+               Muhammad's death by a few years; far more important to 
+               Shoemaker are questions about the manner in which Islamic 
+               origins should be studied. The difference in the early sources 
+               affords an important opening through which to explore the 
+               nature of primitive Islam more broadly. Arguing for greater 
+               methodological unity between the study of Christian and Islamic
+               origins, Shoemaker emphasizes the potential value of non-
+               Islamic sources for reconstructing the history of formative 
+               Islam. -- Product Description.
+SUBJECT      Muḥammad, Prophet, -632.
+SUBJECT      Islam -- History.
+SUBJECT      Islam -- Historiography.
+OCLC #       720634830.
+ISN/STD #    9780812243567 (alk. paper)
+ISN/STD #    0812243560 (alk. paper)
+ISN/STD #    (OCoLC)720634830.
+LCCN         2011016426.
+
+Record 8 of 17
+             CIN
+CALL #       PA4004 .H96 2012.
+AUTHOR       Humbach, Helmut.
+TITLE        Herodotus's Scythians and Ptolemy's Central Asia : semasiological
+               and onomasiological studies / Helmut Humbach and Klaus Faiss.
+IMPRINT      Wiesbaden : Reichert Verlag, c2012.
+DESCRIPT'N   xii, 91 p. ; 25 cm.
+NOTE         Includes bibliographical references and indexes.
+SUBJECT      Herodotus.
+SUBJECT      Ptolemy, active 2nd century.
+SUBJECT      Scythians.
+SUBJECT      Asia, Central.
+ALT NAME     Faiss, Klaus.
+OCLC #       792880776.
+ISN/STD #    9783895008870.
+ISN/STD #    3895008877.
+ISN/STD #    (OCoLC)792880776.
+
+Record 9 of 17
+             WSU
+CALL #       UA649 .K58 2014.
+CALL #       940.43 23.
+AUTHOR       Kitchen, James E., author.
+TITLE        The British Imperial Army in the Middle East : morale and 
+               military identity in the Sinai and Palestine campaigns, 1916-18
+               / James E. Kitchen.
+IMPRINT      London : Bloomsbury, 2014.
+DESCRIPT'N   x, 303 pages : illustrations, maps ; 24 cm.
+SERIES       War, culture and society series.
+SERIES       War, culture and society.
+NOTE         Includes bibliographical references (pages [269]-293) and index.
+NOTE         The nature of war in Sinai and Palestine -- A twentieth-century 
+               crusade? -- Command, control and morale -- Citizen soldiers at 
+               war -- The Anzac legend, mateship and morale -- The Indian army
+               fighting for empire.
+SUBJECT      Great Britain. Army -- History -- World War, 1914-1918.
+SUBJECT      World War, 1914-1918 -- Campaigns -- Egypt -- Sinai.
+SUBJECT      World War, 1914-1918 -- Campaigns -- Palestine.
+SUBJECT      World War, 1914-1918 -- Participation, British.
+OCLC #       857981351.
+ISN/STD #    (OCoLC)857981351.
+ISN/STD #    9781472505279.
+ISN/STD #    1472505271.
+ISN/STD #    9781472511317 (ePDF)
+ISN/STD #    147251131X (ePDF)
+ISN/STD #    9781472509284 (ePub)
+ISN/STD #    1472509285 (ePub)
+
+Record 10 of 17
+             OPL
+CALL #       DS119.76 .F725 2012.
+TITLE        Freedom sailors : the inside story of the Free Gaza movement's 
+               first voyage to challenge Israel's illegal blockade of Gaza, 
+               and how we succeeded in spite of ourselves / edited by Greta 
+               Berlin and Bill Dienst.
+IMPRINT      [S.l. : s.n.], [2012]
+IMPRINT      ©2012.
+DESCRIPT'N   252 p. : ill. ; 23 cm.
+NOTE         Includes index.
+SUBJECT      Free Gaza Movement.
+SUBJECT      Arab-Israeli conflict -- 1993- -- Protest movements.
+SUBJECT      Peace movements -- Gaza Strip.
+SUBJECT      Nonviolence -- Israel.
+SUBJECT      Nonviolence -- Gaza Strip.
+SUBJECT      Gaza Strip -- Politics and government.
+SUBJECT      Israel -- Politics and government.
+ALT NAME     Berlin, Greta.
+ALT NAME     Dienst, Bill.
+OCLC #       855220399.
+ISN/STD #    9780615654898.
+ISN/STD #    0615654894.
+ISN/STD #    (OCoLC)855220399.
+
+Record 11 of 17
+             CWR
+CALL #       PJ5008 .G46 2014.
+CALL #       892.4/09 23.
+AUTHOR       Ginsburg, Shai, 1967- author.
+TITLE        Rhetoric and nation : the formation of Hebrew national culture, 
+               1880-1990 / Shai P. Ginsburg.
+IMPRINT      Syracuse, New York : Syracuse University Press, [2014]
+IMPRINT      ©2014.
+DESCRIPT'N   xi, 473 pages ; 24 cm.
+SERIES       Judaic traditions in literature, music, and art.
+SERIES       Judaic traditions in literature, music, and art.
+NOTE         Includes bibliographical references (pages 385-443) and index.
+NOTE         Introduction: nation and discourse -- Politics and letters: Ah'ad
+               Ha-Am's Rhetoric of the Nation -- Language and pedagogy: Moshe 
+               Smilansky's H'awaja Nazar -- Literary criticism as nationalist 
+               cartography: Joseph Hayyim Brenner and The Land of Israel Genre
+               and its Accouterments -- The rhetoric of historical anxiety: 
+               David Ben-Gurion and Meir Yaari -- History and myth: Moshe 
+               Shamir's He Walked through the Fields -- History and mourning: 
+               the reception of Moshe Shamir's He Walked through the Fields --
+               National aesthetics in crisis: Amos Oz's political writings -- 
+               The tussle with the Zionist dream: Yaakov Shabtai's Past 
+               Continuous -- A sentimental journey: Dan Miron's Moral 
+               Landscape -- Rethinking the Hebrew discourse of the nation.
+SUBJECT      Shamir, Moshe, 1921-2004. Hu halakh ba-śadot.
+SUBJECT      Hebrew literature -- History and criticism.
+SUBJECT      Israeli literature -- History and criticism.
+SUBJECT      Jewish literature -- History and criticism.
+SUBJECT      Zionism and literature.
+SUBJECT      Nationalism and literature.
+OCLC #       863200223.
+ISN/STD #    GBB441277 bnb.
+ISN/STD #    9780815633334 (cloth : alk. paper)
+ISN/STD #    0815633335 (cloth : alk. paper)
+ISN/STD #    9780815652427 (ebook)
+ISN/STD #    0815652429 (ebook)
+ISN/STD #    (OCoLC)863200223.
+LCCN         2014011267.
+
+Record 12 of 17
+             OSU
+AUTHOR       Stanton, Andrea L.
+TITLE        This is Jerusalem calling [electronic resource] : state radio in 
+               mandate Palestine / by Andrea L. Stanton.
+EDITION      1st ed.
+IMPRINT      Austin : University of Texas Press, 2013. (Baltimore, Md. : 
+               Project MUSE,  2014)
+DESCRIPT'N   1 online resource.
+SERIES       UPCC book collections on Project MUSE.
+NOTE         Includes bibliographical references and index.
+NOTE         Selling radio, selling radios : advertising sets in mandate 
+               Palestine -- Peasants into Palestinians : rural and school 
+               broadcasting -- Broadcasting a nationalist modernity : the PBS 
+               Arabic section -- Putting religion on the radio -- Claiming the
+               PBS : whose national radio?
+GENRE/FORM   Electronic books.  local.
+ALT NAME     Project Muse.
+OCLC #       852159616.
+ISN/STD #    0292747500.
+ISN/STD #    9780292747500.
+ISN/STD #    0292747497.
+ISN/STD #    9780292747494 (cloth : alk. paper)
+LCCN         2012044365.
+
+Record 13 of 17
+             WSU
+CALL #       297.2/7 23.
+CALL #       BP173.25 .T58 2014.
+AUTHOR       Tittensor, David.
+TITLE        The house of service : the Gülen movement and Islam's third way /
+               David Tittensor.
+IMPRINT      Oxford ; New York : Oxford University Press, [2014]
+DESCRIPT'N   xiv, 248 pages : illustrations ; 25 cm.
+SERIES       Religion and global politics.
+SERIES       Religion and global politics.
+NOTE         Includes bibliographical references (pages 217-236) and index.
+NOTE         The Gülen movement in context. Islam in Turkey: continuities in 
+               spite of change -- All is not what it seems: a critical 
+               appraisal of modern Turkey -- The development of a vision -- 
+               The Gülen movement in practice. Voices from within, voices from
+               without: movement teachers and students speak for themselves --
+               Divergence between the mission and the message: interrogation 
+               of a double standard -- Placing the Gülen movement in the 
+               global order: the need for a new typology -- A singular 
+               movement with a modern day mission.
+SUBJECT      Gülen Hizmet Movement.
+SUBJECT      Islam -- Turkey -- 21st century.
+OCLC #       855909962.
+ISN/STD #    GBB431421 bnb.
+ISN/STD #    (OCoLC)855909962.
+ISN/STD #    9780199336418 (hardcover : alk. paper)
+ISN/STD #    0199336415 (hardcover : alk. paper)
+ISN/STD #    9780199336425 (ebook)
+ISN/STD #    0199336423 (ebook)
+LCCN         2013033062.
+
+Record 14 of 17
+             WSU
+CALL #       953.63 23.
+CALL #       DS247.Q35 K36 2013.
+AUTHOR       Kamrava, Mehran, 1964- author.
+TITLE        Qatar : small state, big politics / Mehran Kamrava.
+IMPRINT      Ithaca : Cornell University Press, 2013.
+DESCRIPT'N   x, 222 pages : b illustrations, map ; 24 cm.
+NOTE         Includes bibliographical references and index.
+NOTE         Setting the stage -- The subtle powers of a small state -- 
+               Foreign policy and power projection -- The stability of royal 
+               autocracy -- State capacity and high modernism -- Qatar's 
+               moment in history.
+SUBJECT      Qatar -- Politics and government.
+SUBJECT      Qatar -- Foreign relations.
+OCLC #       826860899.
+ISN/STD #    (OCoLC)826860899.
+ISN/STD #    9780801452093 (cloth : alk. paper)
+ISN/STD #    0801452090 (cloth : alk. paper)
+LCCN         2013003359.
+
+Record 15 of 17
+             CWR
+CALL #       DS383.5.A2 P385 2014.
+CALL #       954.9105 23.
+AUTHOR       Paul, T. V., author.
+TITLE        The warrior state : Pakistan in the contemporary world / T. V. 
+               Paul.
+IMPRINT      New York : Oxford University Press, [2014]
+DESCRIPT'N   xii, 253 pages : maps ; 25 cm.
+NOTE         War and development -- The causes -- A turbulent history -- The 
+               garrison state -- The geostrategic urge -- Religion and 
+               politics -- Comparing Pakistan -- The warrior state today.
+NOTE         Includes bibliographical references and index.
+NOTE         In The Warrior State, noted international relations and South 
+               Asia scholar T.V. Paul untangles this fascinating riddle. Paul 
+               argues that the "geostrategic curse"--akin to the "resource 
+               curse" that plagues oil-rich autocracies--is at the root of 
+               Pakistan's unique inability to progress. Since its founding in 
+               1947, Pakistan has been at the center of major geopolitical 
+               struggles: the US-Soviet rivalry, the conflict with India, and 
+               most recently the post 9/11 wars. No matter how ineffective the
+               regime is, massive foreign aid keeps pouring in from major 
+               powers and their allies with a stake in the region. The 
+               reliability of such aid defuses any pressure on political 
+               elites to launch the far-reaching domestic reforms necessary to
+               promote sustained growth, higher standards of living, and more 
+               stable democratic institutions. Paul shows that excessive war-
+               making efforts have drained Pakistan's limited economic 
+               resources without making the country safer or more stable. 
+               Indeed, despite the regime's emphasis on security, the country 
+               continues to be beset by widespread violence and terrorism.
+SUBJECT      Geopolitics -- Pakistan.
+SUBJECT      National security -- Pakistan.
+SUBJECT      War -- Economic aspects.
+SUBJECT      Economic development -- Pakistan.
+SUBJECT      Pakistan -- Politics and government.
+OCLC #       852031217.
+ISN/STD #    9780199322237 (hardback : alkaline paper)
+ISN/STD #    0199322236 (hardback : alkaline paper)
+ISN/STD #    (OCoLC)852031217.
+LCCN         2013022390.
+
+Record 16 of 17
+             FCO
+CALL #       HC415.15 .H35 2013.
+AUTHOR       Hanieh, Adam, 1972-, author.
+TITLE        Lineages of revolt : issues of contemporary capitalism in the 
+               Middle East / Adam  Hanieh.
+IMPRINT      Chicago, Illinois : Haymarket Books, 2013.
+DESCRIPT'N   273 pages ; 23 cm.
+NOTE         Includes bibliographical references (pages 195-218) and index.
+NOTE         "Praise for Adam Hanieh's Capitalism and Class in the Gulf Arab 
+               States:"The first work to be published in English that gives a 
+               full understanding of the formation and development of the Gulf
+               capitalist class."-Counterfire In this illuminating and 
+               original work, Adam Hanieh demonstrates that the Arab Spring 
+               rebellions are about much more than democracy. Too often the 
+               Arab uprisings have been reduced to a simple expression of mass
+               protest against authoritarian regimes. In an accessible and 
+               engaging style, Hanieh shows how an analysis of the specific 
+               nature of capitalist development in the Middle East is key to 
+               understanding these revolutions. Adam Hanieh teaches 
+               development studies at the School of Oriental and African 
+               Studies (SOAS). He is the author of Capitalism and Class in the
+               Gulf Arab States. "-- Provided by publisher.
+SUBJECT      Economic development -- Political aspects -- Middle East.
+SUBJECT      Capitalism -- Political aspects -- Middle East.
+SUBJECT      Insurgency -- Economic aspects -- Middle East.
+SUBJECT      Middle East -- Economic policy.
+SUBJECT      Middle East -- Economic conditions.
+OCLC #       827974587.
+ISN/STD #    1608463257 (pbk.)
+ISN/STD #    9781608463251 (pbk.)
+ISN/STD #    40022998447.
+ISN/STD #    (OCoLC)827974587.
+LCCN         2013030409.
+
+Record 17 of 17
+             KSU
+CALL #       PJ6106 .F348 2012.
+CALL #       492.7/5 23.
+AUTHOR       Fassi Fehri, Abdelkader.
+TITLE        Key features and parameters in Arabic grammar / Abdelkader Fassi 
+               Fehri.
+IMPRINT      Amsterdam ; Philadelphia : John Benjamins Pub. Co., [2012]
+IMPRINT      ©2012.
+DESCRIPT'N   xx, 358 pages : illustrations ; 25 cm.
+SERIES       Linguistik aktuell/linguistics today ; v. 182.
+SERIES       Linguistik aktuell ; Bd. 182.
+NOTE         Includes bibliographical references and index.
+SUBJECT      Arabic language -- Grammar.
+OCLC #       761369237.
+ISN/STD #    9789027255655 (alk. paper)
+ISN/STD #    9027255652 (alk. paper)
+ISN/STD #    9789027274960 (eb)
+ISN/STD #    9027274967 (eb)
+LCCN         2011048226.
