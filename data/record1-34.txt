@@ -1,0 +1,1147 @@
+Record 1 of 34
+             CIN
+CALL #       PJ1526.S3 R39 2011.
+CALL #       493.1 23.
+AUTHOR       Ray, J. D.
+TITLE        Texts from the Baboon and Falcon galleries : demotic, 
+               hieroglyphic and Greek instriptions from the sacred animal 
+               necropolis, North Saqqara / J.D. Ray ; edited and updated by 
+               C.J. Martin (2008)
+IMPRINT      London : Egypt Exploration Society, 2011.
+DESCRIPT'N   374 pages : illustrations ; 30 cm.
+SERIES       EES excavation memoir ; 15.
+SERIES       Excavation memoir ; 15.
+NOTE         Includes bibliographical references (pages xi-xv) and indexes.
+SUBJECT      Inscriptions, Egyptian -- Egypt -- Ṣaqqārah.
+ALT NAME     Martin, Cary J.
+ALT NAME     Egypt Exploration Society.
+OCLC #       779582603.
+ISN/STD #    9780856982057.
+ISN/STD #    0856982059.
+ISN/STD #    (OCoLC)779582603 (OCoLC)774855289 (OCoLC)784097838.
+
+Record 2 of 34
+             CIN
+CALL #       DT92 .K66 1954.
+AUTHOR       Kool, Pieter, 1913-
+TITLE        De phylakieten in Grieks-Romeins Egypte / Pieter Kool.
+IMPRINT      Amsterdam : Poortpers, 1954.
+DESCRIPT'N   x, 133 p. ; 24 cm.
+NOTE         Text in Dutch; Conclusion and summary in English.
+NOTE         Proefschrift -- Rijks Universiteit, Leiden.
+NOTE         Includes bibliographical references and indexes.
+SUBJECT      Egypt -- History -- 332-30 B.C.
+SUBJECT      Police -- Egypt.
+OCLC #       235720698.
+ISN/STD #    (OCoLC)235720698.
+
+Record 3 of 34
+             OSU
+CALL #       BL221 .R43 2011eb.
+CALL #       211/.34 22.
+TITLE        Reconsidering the concept of revolutionary monotheism [electronic
+               resource] / edited by Beate Pongratz-Leisten.
+IMPRINT      Winona Lake, Ind. : Eisenbrauns, 2011.
+DESCRIPT'N   1 online resource (xii, 370 p.) : ill.
+NOTE         Proceedings of a conference held in Feb. 2007 at Princeton 
+               University.
+NOTE         Includes bibliographical references and indexes.
+NOTE         A new agenda for the study of the rise of monotheism / Beate 
+               Pongratz-Leisten -- Presenting and discussing deities in new 
+               kingdom and third intermediate period Egypt / John Baines -- 
+               Gods and scholars : mapping the pantheon in early Mesopotamia /
+               Gonzalo Rubio -- The heavens and the gods in ancient 
+               Mesopotamia : the view from a polytheistic cosmology / 
+               Francesca Rochberg -- Divine agency and astralization of the 
+               gods in ancient Mesopotamia / Beate Pongratz-Leisten -- How 
+               gods die, biblically and otherwise : a problem of cosmic 
+               restructuring / Peter Machinist -- God in translation : cross-
+               cultural recognition of divinity in ancient Israel / Mark S. 
+               Smith -- The quest for "God" : monotheistic arguments in the 
+               priestly texts of the Hebrew Bible / Konrad Schmid -- King and 
+               Messiah as Son of God / John J. Collins -- Zarathustra : a 
+               revolutionary monotheist? / Prods Oktor Skjærvø
+NOTE         Description based on print version record.
+SUBJECT      Monotheism -- Congresses.
+SUBJECT      God -- Congresses.
+GENRE/FORM   Electronic books.
+ALT NAME     Pongratz-Leisten, Beate.
+LINK         Print version: Reconsidering the concept of revolutionary 
+               monotheism. Winona Lake, Ind. : Eisenbrauns, 2011 9781575061993
+               (DLC)  2011010053 (OCoLC)707886958.
+OCLC #       759160141.
+ISN/STD #    9781575066486 (eISBN)
+ISN/STD #    1575066483 (eISBN)
+ISN/STD #    9781575061993 (hardback : alk. paper)
+ISN/STD #    1575061996 (hardback : alk. paper)
+ISN/STD #    .b70730143.
+
+Record 4 of 34
+             OBE
+CALL #       PJ8078 .H37 2014.
+CALL #       892.7/0995692 23.
+AUTHOR       Hartman, Michelle, author.
+TITLE        Native tongue, stranger talk : the Arabic and French literary 
+               landscapes of Lebanon / Michelle Hartman.
+EDITION      First edition.
+IMPRINT      Syracuse, New York : Syracuse University Press, 2014.
+DESCRIPT'N   xviii, 358 pages ; 24 cm.
+SERIES       Middle East studies beyond dominant paradigms.
+SERIES       Middle East studies beyond dominant paradigms.
+NOTE         Includes bibliographical references and index.
+SUBJECT      Arabic literature -- Lebanon -- History and criticism.
+SUBJECT      Lebanese literature (French) -- History and criticism.
+GENRE/FORM   Criticism, interpretation, etc. fast (OCoLC)fst01411635.
+OCLC #       863200244.
+ISN/STD #    9780815633563 (cloth : alk. paper)
+ISN/STD #    0815633564 (cloth : alk. paper)
+ISN/STD #    9780815652694 (ebook)
+ISN/STD #    (OCoLC)863200244.
+LCCN         2014014174.
+
+Record 5 of 34
+             OSU
+CALL #       PJ7820.A7 Z7389 2014.
+AUTHOR       Mattawa, Khaled.
+TITLE        Mahmoud Darwish [electronic resource] : the poet's art and his 
+               nation / Khaled Mattawa.
+EDITION      First edition.
+IMPRINT      Syracuse, New York : Syracuse University Press, 2014. (Baltimore,
+               Md. : Project MUSE,  2014)
+DESCRIPT'N   1 online resource.
+SERIES       UPCC book collections on Project MUSE.
+NOTE         Includes bibliographical references and index.
+NOTE         An introduction: perennial tensions -- The poet and the national 
+               literature -- Poet under occupation, 1964-1971 -- Poet of 
+               national liberation, 1971-1986 -- To survive in the world: 
+               writing the deep present and the deep past, 1986-1993 -- Who am
+               I without exile? anxieties of renewal and a national late
+               style, 1995-2008 -- Parting words: the poet appropriates 
+               contingency -- Postscript.
+SUBJECT      Darwīsh, Maḥmūd -- Criticism and interpretation.
+SUBJECT      Politics and literature.
+GENRE/FORM   Electronic books.  local.
+ALT NAME     Project Muse.
+OCLC #       881430503.
+ISN/STD #    0815652739.
+ISN/STD #    9780815652731.
+ISN/STD #    0815633610.
+ISN/STD #    9780815633617 (cloth : alk. paper)
+LCCN         2014006798.
+
+Record 6 of 34
+             OSU
+CALL #       BP173.7 .B645 2013eb.
+CALL #       320.55/7 23.
+AUTHOR       Bokhari, Kamran, author.
+TITLE        Political Islam in the age of democratization / Kamran Bokhari 
+               and Farid Senzai.
+IMPRINT      New York : Palgrave Macmillan, 2013.
+IMPRINT      ©2013.
+DESCRIPT'N   1 online resource (277 pages) : illustrations.
+SERIES       Middle East Today.
+SERIES       Middle East today.
+NOTE         Electronic reproduction. Palo Alto, Calif. : ebrary, 2014. 
+               Available via World Wide Web. Access may be limited to ebrary 
+               affiliated libraries.
+NOTE         Includes bibliographical references and index.
+SUBJECT      Democracy -- Religious aspects -- Islam.
+SUBJECT      Democratization -- Islamic countries.
+SUBJECT      Islam and politics.
+SUBJECT      Islamic fundamentalism.
+GENRE/FORM   Electronic books.
+ALT NAME     Senzai, Farid, author.
+ALT NAME     ebrary, Inc.
+LINK         Print version: Bokhari, Kamran. Political Islam in the age of 
+               democratization. New York : Palgrave Macmillan, c2013  xvii, 
+               258 pages  Middle East today. 9781137008480  2013023119.
+OCLC #       1ebr10881415.
+ISN/STD #    9781137313492 (e-book)
+ISN/STD #    9781137008046.
+ISN/STD #    9781137008480.
+
+Record 7 of 34
+             WSU
+CALL #       821/.91 23.
+CALL #       PR9379.9.A9 A6 2014.
+AUTHOR       Awoonor, Kofi, 1935-2013, author.
+TITLE        Poems. Selections.
+TITLE        The Promise of Hope : New and Selected Poems, 1964-2013 / Kofi 
+               Awoonor ; Edited and with an introduction by Kofi Anyidoho ; 
+               Foreword by Kwame Dawes.
+IMPRINT      Lincoln, [Nebraska] : University of Nebraska Press, [2014]
+DESCRIPT'N   xxxiii, 297 pages ; 23 cm.
+SERIES       African Poetry Book Series.
+SERIES       African poetry book series.
+NOTE         Includes bibliographical references.
+NOTE         Kofi Awoonor, one of Ghana's most accomplished poets, had for 
+               almost half a century committed himself to teaching, political 
+               engagement, and the literary arts. The one constant that guided
+               and shaped his many occupations and roles in life was poetry. 
+               The Promise of Hope is a beautifully edited collection of some 
+               of AwoonorÆs most arresting work spanning almost fifty years. 
+               Selected and edited by AwoonorÆs friend and colleague Kofi 
+               Ahyidoho, himself a prominent poet and academic in Ghana, The 
+               Promise of Hope contains much of AwoonorÆs most recent 
+               unpublished poetry, along with many of his anthologized and 
+               classic poems. This engaging volume serves as a fitting 
+               contribution to the inaugural cohort of books in the African 
+               Poetry Book Series. Book jacket.
+ALT NAME     Anyidoho, Kofi, editor.
+ALT NAME     Dawes, Kwame Senu Neville, 1962- author of foreword.
+OCLC #       857754047.
+ISN/STD #    .b37255320 060ga -
+ISN/STD #    (OCoLC)857754047.
+ISN/STD #    9780803249899 (paperback : alk. paper)
+ISN/STD #    0803249896 (paperback : alk. paper)
+ISN/STD #    9780803254930 (pdf)
+ISN/STD #    9780803254947 (epub)
+ISN/STD #    9780803254954 (mobi)
+LCCN         2013034296.
+
+Record 8 of 34
+             WSU
+CALL #       HT919 .E548 2013.
+CALL #       297.5/675 23.
+AUTHOR       Ennaji, Mohammed.
+TITLE        Slavery, the state, and Islam / Mohammed Ennaji, Mohammed V 
+               University ; translated by Teresa Lavender Fagan.
+EDITION      First English edition.
+IMPRINT      New York : Cambridge University Press, 2013.
+DESCRIPT'N   xi, 252 pages ; 24 cm.
+NOTE         Includes bibliographical references and indexes.
+SUBJECT      Slavery and Islam.
+ALT NAME     Fagan, Teresa Lavender.
+OCLC #       694393844.
+ISN/STD #    (OCoLC)694393844.
+ISN/STD #    9780521119627 (hardback : alk. paper)
+ISN/STD #    0521119626 (hardback : alk. paper)
+ISN/STD #    9780521135450 (pbk. : alk. paper)
+ISN/STD #    0521135451 (pbk. : alk. paper)
+LCCN         2013006874.
+
+Record 9 of 34
+             FCO
+CALL #       DT263 .P47 2013.
+AUTHOR       Perkins, Kenneth J., author.
+TITLE        A history of modern Tunisia / Kenneth Perkins, University of 
+               South Carolina.
+EDITION      Second edition.
+IMPRINT      New York City : Cambridge University Press, 2013.
+DESCRIPT'N   xix, 306 pages : illustrations, maps ; 24 cm.
+NOTE         Includes bibliographical references and index.
+NOTE         A political who's who of modern Tunisia -- The march to Bardo, 
+               1835-1881 -- Whose Tunisia? 1881-1912 -- Squaring off, 1912-
+               1940 -- Redefining the relationship, 1940-1956 -- The 
+               independent state sets its course, 1956-1969 -- Regime 
+               entrenchment and the intensification of opposition, 1969
+               -1987 -- Innovation in the "new" Tunisia, 1987-2003 -- A 
+               revolution for dignity, freedom, and justice.
+SUBJECT      Tunisia -- History -- 19th century.
+SUBJECT      Tunisia -- History -- 20th century.
+OCLC #       841199183.
+ISN/STD #    9781107024076 (hardback)
+ISN/STD #    1107024072 (hardback)
+ISN/STD #    9781107654730 (pbk.)
+ISN/STD #    1107654734 (pbk.)
+ISN/STD #    (OCoLC)841199183.
+LCCN         2013015495.
+
+Record 10 of 34
+             FCO
+CALL #       DT60 .M836 2012.
+AUTHOR       Murnane, William J.
+TITLE        The ancient Egypt guide / William J. Murnane ; revised by  Aidan 
+               Dodson ; with contributions by Nicholas Warner.
+EDITION      [3rd ed.]
+IMPRINT      Northampton, MA : Interlink Books, 2012.
+DESCRIPT'N   417 p., [40] p. of plates : ill. (some col.), maps (some col.), 
+               ports., plans ; 21 cm.
+NOTE         "Third edition"--P. 9.
+NOTE         Includes bibliographical references and indexes.
+NOTE         Preface to the third edition -- Preface to the second edition -- 
+               Part 1: -- Land and the river -- People, professions and 
+               leisure -- Government -- Pharaonic Egypt and its neighbors -- 
+               Cities of God -- Death and burial -- Mansions of eternity -- 
+               Graeco-Roman twilight -- Pharaonic heritage -- Part 2: -- Delta
+               -- Cairo and Environs 1:  Ancient Pharaonic monuments -- Cairo 
+               and Environs 2:  Christian and Islamic site (Nicholas
+               Warner) -- Giza to Abusir -- Memphis and Saqqara -- Southern 
+               Pyramid fields and the Faiyum -- Middle Egypt -- Abydos to 
+               Luxor -- Luxor, East Bank -- Luxor, West Bank:  Royal monuments
+               -- Luxor, West Bank:  Private monuments -- Luxor to Aswan -- 
+               Aswan -- Beyond the borders -- Part 3: -- Practical information
+               (Nicholas Warner) -- Travel in Egypt -- Guide to cities and 
+               towns -- Capsule King list and history of ancient Egypt -- 
+               Further reading -- General index -- Index of localities -- List
+               Of Maps: -- Delta -- Alexandria -- Central Cairo -- Old Cairo: 
+               Roman and Christian Quarter (Babylon) -- Medieval Cairo, from 
+               North to South of the Old City Walls: -- Cairene Monuments from
+               the Ibn-Tulun Mosque to the Citadel -- Monuments of Cairo's 
+               Southern Cemetery -- Monuments of Cairo's Northern Cemetery -- 
+               Pyramid fields from Abu Rawash to the Faiyum -- Faiyum --
+               Luxor, East Bank -- Luxor, West Bank -- Aswan region -- Town of
+               Aswan, Monuments -- Sinai -- Oases of Kharga and Dakhla -- 
+               Bahriya Oasis -- Siwa Oasis.
+NOTE         Book Description:  This new edition will bring Murnane's engaging
+               yet rigorous learning to a new audience, complete with a 
+               chapter on the wonderful medieval architecture of Cairo, and 
+               extensive practical information.  The book combines up-to-date 
+               guidebook information with a compact yet wide-ranging cultural 
+               history.  It contains:  A complete background to Ancient Egypt,
+               including its people and institutions. - Descriptions of the 
+               sites, all fully cross-referenced to the text. - Itineraries of
+               the most significant Pharaonic remains, Christian sites and 
+               Islamic monuments around Cairo. - Detailed surveys of major 
+               monuments and accessible sites off the beaten track. - Over 200
+               area maps, plans and photographs. - Practical information for 
+               transportation, food, lodging and local customs.
+SUBJECT      Egypt -- Antiquities -- Guidebooks.
+SUBJECT      Egypt -- Guidebooks.
+SUBJECT      Egypt -- History -- To 640 A.D.
+SUBJECT      Egypt -- Civilization -- To 332 B.C.
+SUBJECT      Egypt -- Civilization -- 332 B.C.-638 A.D.
+GENRE/FORM   Guidebooks. fast (OCoLC)fst01423871.
+GENRE/FORM   History. fast (OCoLC)fst01411628.
+ALT NAME     Dodson, Aidan, 1962-
+ALT NAME     Warner, Nicholas.
+ALT TITLE    Egypt guide.
+OCLC #       785426713.
+ISN/STD #    9781566568586 (pbk.)
+ISN/STD #    1566568587  (pbk.)
+ISN/STD #    (OCoLC)785426713.
+
+Record 11 of 34
+             WSU
+CALL #       HQ1784 .M36 2012.
+CALL #       305.40956 23.
+TITLE        Mapping Arab women's movements : a century of transformations 
+               from within / edited by Pernille Arenfeldt, Nawar Al-Hassan 
+               Golley.
+IMPRINT      Cairo, Egypt ; New York : American University in Cairo Press, 
+               c2012.
+DESCRIPT'N   xvi, 392 p. ; 24 cm.
+NOTE         "Dar el Kutub No. 24791/11"--T.p. verso.
+NOTE         Includes bibliographical references and index.
+NOTE         Arab women's movements : development, priorities, and
+               challenges / Pernille Arenfeldt and Nawar Al-Hassan Golley -- 
+               Convergences and divergences : Egyptian women's activisms over 
+               the last century / Leslie Lewis -- Challenges and opportunities
+               : the women's movement in Syria / Pauline Homsi Vinson and 
+               Nawar Al-Hassan Golley -- The Iraqi women's movement : past and
+               contemporary perspectives / Nadje Al-Ali -- Women's rights 
+               activism in Lebanon / Rita Stephan -- Harvests of the golden 
+               decades : contemporary women's activism in Jordan / Ibtesam Al-
+               Atiyat -- Discovering the positive within the negative : 
+               Palestinian women's movements / Eileen Kuttab -- A long, quiet,
+               and steady struggle : the women's movement in Yemen / Amel 
+               Nejib al-Ashtal -- Fashioning the future : the women's movement
+               in Kuwait / Mary Ann Tétreault, Helen Rizzo, and Doron 
+               Shultziner -- The 'makings' of a movement 'by implication' : 
+               assessing the expansion of women's rights in the United Arab 
+               Emirates from 1971 until today / Vânia Carvalho Pinto -- North 
+               American Muslim women's movements and the politics of Islamic 
+               feminine hermeneutics / Hanadi Al-Samman -- Appendix : women's 
+               movements in the Gulf countries / United Nations Economic and 
+               Social Commission for Western Asia (ESCWA) Center for Women.
+SUBJECT      Women, Arab.
+SUBJECT      Women -- Arab countries -- History.
+SUBJECT      Feminism -- Arab countries -- History -- 20th century.
+SUBJECT      Feminism -- Arab countries -- History -- 21st century.
+ALT NAME     Arenfeldt, Pernille.
+ALT NAME     Golley, Nawar Al-Hassan, 1961-
+OCLC #       795907422.
+ISN/STD #    (OCoLC)795907422.
+ISN/STD #    9789774164989.
+ISN/STD #    9774164989.
+
+Record 12 of 34
+             CIN
+CALL #       PA3968.D62 C65 2005.
+CALL #       932 21.
+AUTHOR       Colloque de Strasbourg (2005 : Strasbourg, France)
+TITLE        Les archives de Dioscore d'Aphrodité cent ans après leur 
+               découverte : histoire et culture dans l'Egypte byzantine : 
+               actes du Colloque de Strasbourg, 8-10 décembre 2005 / édités 
+               par Jean-Luc Fournet ; avec la collaboration de Caroline 
+               Magdelaine.
+IMPRINT      Paris : De Boccard, 2008.
+DESCRIPT'N   384 p. : ill. ; 24 cm.
+SERIES       Collections de l'Université Marc Bloch--Strasbourg. Etudes 
+               d'archéologie et d'histoire ancienne, 1284-6325.
+SERIES       Etudes d'archéologie et d'histoire ancienne.
+NOTE         In French, English, German and Italian; resumes in French, 
+               English, German and Italian.
+NOTE         Includes bibliographical references and index.
+SUBJECT      Dioscorus, of Aphrodito -- Archives -- Congresses.
+SUBJECT      Dioscorus, of Aphrodito -- Criticism and interpretation -- 
+               Congresses.
+SUBJECT      Poets, Greek -- Egypt -- Aphrodito (Extinct city) -- Congresses.
+SUBJECT      Law -- Egypt -- Aphrodito (Extinct city) -- History -- Sources --
+               Congresses.
+SUBJECT      Aphrodito (Extinct city) -- Politics and government -- Sources --
+               Congresses.
+SUBJECT      Aphrodito (Extinct city) -- Antiquities -- Congresses.
+SUBJECT      Manuscripts, Greek (Papyri) -- Egypt -- Congresses.
+ALT NAME     Fournet, Jean-Luc.
+ALT NAME     Magdelaine, Caroline.
+OCLC #       317588146.
+ISN/STD #    9782701802503.
+ISN/STD #    2701802504.
+ISN/STD #    (OCoLC)317588146.
+
+Record 13 of 34
+             CWR
+CALL #       DS361 .A755 2012.
+CALL #       958.1 23.
+AUTHOR       Ansary, Mir Tamim.
+TITLE        Games without rules : the often interrupted history of 
+               Afghanistan / Tamim Ansary.
+EDITION      1st ed.
+IMPRINT      New York : PublicAffairs, c2012.
+DESCRIPT'N   xvi, 397 p. : maps ; 25 cm.
+NOTE         Includes bibliographical references (p. 371-378) and index.
+NOTE         Traces the history of Afghanistan and the power conflicts that 
+               have interrupted its ongoing struggle to combine a democracy 
+               with Islamist fanaticism and meld the modern world with the 
+               tribal village republics that populate the countryside.
+NOTE         Introduction -- Afghanistan becomes a country -- Founding
+               father -- Ahmad Shah's Afghanistan -- Farangis on the
+               horizon -- Between the lion and the bear -- Auckland's folly --
+               The second coming of Dost Mohammed -- Eight or ten good
+               years -- interrupted again -- One country, two worlds -- A time
+               of blood and iron -- Starting fresh -- King of the radicals -- 
+               King's law versus God's law -- Things fall apart -- Kabul rules
+               -- After the storm -- Nonaligned nation -- Development, no 
+               brakes -- The democracy era -- Rise of the left -- Change by 
+               decree -- The Soviet occupation -- Old Afghanistan erupts -- 
+               The Mujahideen -- Cold War endgame -- From horror to chaos -- 
+               Out of the camps -- Taliban versus Mujahideen -- Al Qaeda -- 
+               America enters the picture -- The struggle resumes -- The Bonn 
+               project -- Kabul spring -- The persistence of trouble -- Drugs 
+               and corruption -- Talibanism -- The tipping point -- Obama's 
+               surges -- All that glitters -- Postscript -- The big picture.
+SUBJECT      Military occupation -- History.
+SUBJECT      British -- Afghanistan -- History.
+SUBJECT      Russians -- Afghanistan -- History.
+SUBJECT      Americans -- Afghanistan -- History.
+SUBJECT      Afghanistan -- History.
+SUBJECT      Afghanistan -- History, Military.
+SUBJECT      Afghanistan -- Strategic aspects.
+SUBJECT      Afghanistan -- Politics and government.
+OCLC #       778420376.
+ISN/STD #    9781610390941 (hardcover : alk. paper)
+ISN/STD #    1610390946 (hardcover : alk. paper)
+ISN/STD #    9781610390958 (ebook)
+ISN/STD #    1610390954 (ebook)
+LCCN         2012025651.
+
+Record 14 of 34
+             CIN
+CALL #       HC415.36 .D38 2009.
+AUTHOR       Davidson, Christopher M. (Christopher Michael)
+TITLE        Abu Dhabi : oil and beyond / Christopher M. Davidson.
+IMPRINT      London : Hurst & Company, 2009.
+DESCRIPT'N   ix, 244 p. ; 23 cm.
+NOTE         Includes bibliographical references and index.
+SUBJECT      Abū Ẓaby (United Arab Emirates : Emirate) -- Economic policy.
+SUBJECT      Abū Ẓaby (United Arab Emirates : Emirate) -- Economic conditions.
+SUBJECT      Abū Ẓaby (United Arab Emirates : Emirate) -- Politics and 
+               government.
+SUBJECT      Petroleum industry and trade -- United Arab Emirates -- Abū 
+               Ẓaby (Emirate)
+OCLC #       302060986.
+ISN/STD #    1850659788.
+ISN/STD #    9781850659785.
+ISN/STD #    (OCoLC)302060986.
+
+Record 15 of 34
+             MIA
+CALL #       NA8350 .J67 2012.
+AUTHOR       Jorgensen, Hemming, 1939-
+TITLE        Ice houses of Iran : where, how, why / Hemming Jorgensen.
+IMPRINT      Costa Mesa : Mazda Publishers , 2012.
+DESCRIPT'N   xv, 240 pages : illustrations, maps, plans ; 28 cm.
+SERIES       Bibliotheca Iranica. Archaeology, art and architecture series ; 
+               no. 2.
+SERIES       Bibliotheca Iranica. Archaeology, art and architecture series ; 
+               no. 2.
+NOTE         text rdacontent.
+NOTE         unmediated rdamedia.
+NOTE         volume rdacarrier.
+NOTE         Includes bibliographical references (pages 221-228) and index.
+SUBJECT      Icehouses -- Iran.
+SUBJECT      Vernacular architecture -- Iran.
+OCLC #       793421780.
+LCCN         2012016877.
+
+Record 16 of 34
+             MIA
+CALL #       BP190.5.V56 H357 2012.
+AUTHOR       Halverson, Jeffry R.
+TITLE        Searching for a King : Muslim nonviolence and the future of Islam
+               / Jeffry R. Halverson.
+EDITION      1st ed.
+IMPRINT      Washington, D.C. : Potomac Books, 2012.
+DESCRIPT'N   xiv, 173 p. ; 24 cm.
+NOTE         Includes bibliographical references (p. 147-168) and index.
+NOTE         Jihad and the book -- False promise -- Nonviolence -- The 
+               chieftain -- The philosopher -- The martyr -- The cleric -- The
+               ascetic -- Microfinance -- Women's education -- Jihad without 
+               swords.
+SUBJECT      Nonviolence -- Religious aspects -- Islam.
+SUBJECT      Jihad.
+SUBJECT      Islam -- 21st century.
+OCLC #       773023742.
+LCCN         2012018889.
+
+Record 17 of 34
+             CWR
+CALL #       HQ1793 .F39 2012.
+CALL #       305.40962/16 23.
+AUTHOR       Fay, Mary Ann.
+TITLE        Unveiling the harem : elite women and the paradox of seclusion in
+               eighteenth-century Cairo / Mary Ann Fay.
+EDITION      1st ed.
+IMPRINT      Syracuse, N.Y. : Syracuse University Press, c2012.
+DESCRIPT'N   xvii, 331 p. : ill., geneal table ; 24 cm.
+SERIES       Middle East studies beyond dominant paradigms.
+SERIES       Middle East studies beyond dominant paradigms.
+NOTE         Includes bibliographical references and index.
+NOTE         Reimagining the harem: from orientalist fantasies to historical 
+               reconstruction -- Egypt in the eighteenth century: the 
+               transition from the medieval to the early modern -- Slaves in 
+               the family: Islam, household slavery, and the construction of 
+               kinship -- The Mamluk household: how a house became a home -- 
+               Mamluk women and the Egyptian economy: a comparative 
+               perspective on women's property rights -- The city as text: 
+               space, gender, and power in Cairo -- The architecture of 
+               seclusion: in search of the historical harem -- Everyday life 
+               in the harem -- Changing the subject: gender and the history of
+               the Mamluk revival -- Epilogue.
+SUBJECT      Women -- Egypt -- Cairo -- Social conditions -- 18th century.
+SUBJECT      Mamelukes -- Social conditions -- 18th century.
+SUBJECT      Harems -- Egypt -- Cairo -- History -- 18th century.
+SUBJECT      Households -- Egypt -- Cairo -- History -- 18th century.
+SUBJECT      Cairo (Egypt) -- Social life and customs -- 18th century.
+OCLC #       759173918.
+ISN/STD #    9780815632931 (cloth : alk. paper)
+ISN/STD #    0815632932 (cloth : alk. paper)
+ISN/STD #    40021346725.
+LCCN         2012018985.
+
+Record 18 of 34
+             OBE
+CALL #       JZ5665 .M68 2012.
+CALL #       623.4/51190955 23.
+AUTHOR       Mousavian, Seyyed Hossein, 1967-
+TITLE        The Iranian nuclear crisis : a memoir / Seyed Hossein Mousavian.
+IMPRINT      Washington, D.C. : Carnegie Endowment for International Peace, 
+               c2012.
+DESCRIPT'N   xii, 597 p. ; 23 cm.
+NOTE         Includes bibliographical references (p. 471-551) and index.
+NOTE         The origin and development of Iran's nuclear program -- The first
+               crisis -- From Tehran to Paris -- From the Paris Agreement to 
+               the 2005 presidential election -- The Larijani period -- To the
+               Security Council -- Back to the Security Council and a new 
+               domestic situation -- Iran alone: the Jalili period -- U.S. 
+               engagement -- The crisis worsens -- Conclusion.
+SUBJECT      Nuclear nonproliferation -- Iran.
+SUBJECT      Nuclear weapons -- Iran.
+SUBJECT      Iran -- Politics and government -- 1997-
+SUBJECT      Iran -- Foreign relations -- 1997-
+SUBJECT      Mousavian, Seyyed Hossein, 1967-
+OCLC #       791489494.
+ISN/STD #    9780870032684 (pbk.)
+ISN/STD #    0870032682 (pbk.)
+ISN/STD #    9780870032677 (hbk.)
+ISN/STD #    0870032674 (hbk.)
+ISN/STD #    (OCoLC)791489494.
+LCCN         2012012698.
+
+Record 19 of 34
+             CWR
+CALL #       JZ1405 .S45 2012.
+CALL #       327.2 23.
+AUTHOR       Seib, Philip M., 1949-
+TITLE        Real-time diplomacy : politics and power in the social media
+               era / Philip Seib.
+EDITION      1st ed.
+IMPRINT      New York : Palgrave Macmillan, 2012.
+DESCRIPT'N   199 p. ; 24 cm.
+NOTE         Includes bibliographical references and index.
+NOTE         The political revolution -- The media revolution -- Traditional 
+               diplomacy and the cushion of time -- The arrival of rapid-
+               reaction diplomacy -- The expeditionary diplomat and the case 
+               for public diplomacy -- The promise of networks -- Ripple 
+               effects -- Looking ahead.
+SUBJECT      Diplomacy -- Technological innovations.
+SUBJECT      Diplomacy -- Decision making -- Technological innovations.
+SUBJECT      Social media -- Political aspects.
+SUBJECT      Internet and international relations.
+SUBJECT      Protest movements in mass media.
+SUBJECT      Protest movements -- Arab countries -- History -- 21st century.
+OCLC #       757475558.
+ISN/STD #    9780230339422 (hardcover : alk. paper)
+ISN/STD #    0230339425 (hardcover : alk. paper)
+ISN/STD #    9780230339439 (pbk. : alk. paper)
+ISN/STD #    0230339433 (pbk. : alk. paper)
+LCCN         2011041553.
+
+Record 20 of 34
+             OU
+CALL #       E183.8.I55 L47 2013.
+AUTHOR       Leverett, Flynt Lawrence.
+TITLE        Going to Tehran : why the United States must come to terms with 
+               the Islamic Republic of Iran / Flynt Leverett and Hillary Mann 
+               Leverett.
+EDITION      1st U.S. ed.
+IMPRINT      New York : Metropolitan Books, 2013.
+DESCRIPT'N   478 p. : ill. ; 25 cm.
+NOTE         Will the United States lose the Middle East-- or come to terms 
+               with the Islamic Republic of Iran? -- The Islamic Republic as 
+               rational actor. A revolutionary state in a dangerous world ; 
+               Rationality, realism, and Iranian grand strategy ; Engaging 
+               America -- The Islamic Republic as legitimate state. Religion, 
+               revolution, and the roots of legitimacy ; A leader and three 
+               presidents ; A controversial election -- The Islamic Republic 
+               as American target. Myths and mythmakers ; Iran and America's 
+               imperial turn ; The road to Tehran.
+NOTE         Includes bibliographical references and index.
+NOTE         "Less than a decade after Washington endorsed a fraudulent case 
+               for invading Iraq, similarly misinformed and politically 
+               motivated claims are pushing America toward war with Iran. 
+               Today the stakes are even higher: such a war could break the 
+               back of America's strained superpower status. Challenging the 
+               daily clamor of U.S. saber rattling, Flynt and Hillary Mann 
+               Leverett argue that America should renounce thirty years of 
+               failed strategy and engage with Iran--just as Nixon 
+               revolutionized U.S. foreign policy by going to Beijing and 
+               realigning relations with China. Former analysts in both the 
+               Bush and Clinton administrations, the Leveretts offer a 
+               uniquely informed account of Iran as it actually is today, not 
+               as many have caricatured it or wished it to be. They show that 
+               Iran's political order is not on the verge of collapse, that 
+               most Iranians still support the Islamic Republic, and that
+               Iran's regional influence makes it critical to progress in the 
+               Middle East. Drawing on years of research and access to high-
+               level officials, Going to Tehran explains how Iran sees the 
+               world and why its approach to foreign policy is hardly the 
+               irrational behavior of a rogue nation. A bold call for new 
+               thinking, the Leveretts' indispensable work makes it clear that
+               America must 'go to Tehran' if it is to avert strategic 
+               catastrophe"-- Provided by publisher.
+SUBJECT      United States -- Foreign relations -- Iran.
+SUBJECT      Iran -- Foreign relations -- United States.
+SUBJECT      United States -- Foreign relations -- 2001-2009.
+ALT NAME     Leverett, Hillary Mann.
+OCLC #       813858215.
+ISN/STD #    9780805094190 (hbk.)
+ISN/STD #    0805094199 (hbk.)
+ISN/STD #    (OCoLC)813858215.
+LCCN         2012036700.
+
+Record 21 of 34
+             CIN
+CALL #       DT295.5 .W57 2012.
+CALL #       320.96109051 23.
+AUTHOR       Willis, Michael J., Dr.
+TITLE        Politics and power in the Maghreb : Algeria, Tunisia and Morocco 
+               from independence to the Arab Spring / Michael J. Willis.
+IMPRINT      New York : Columbia University Press, 2012.
+DESCRIPT'N   vii, 410 p. ; 22 cm.
+NOTE         Includes bibliographical references and index.
+NOTE         The imprint of history -- Post-independence state-building -- The
+               military -- Political parties -- Islamist movements -- The 
+               Berber question -- Politics and economics -- Regional relations
+               -- International relations.
+SUBJECT      Algeria -- Politics and government -- 1962-1990.
+SUBJECT      Algeria -- Politics and government -- 1990-
+SUBJECT      Tunisia -- Politics and government -- 1956-1987.
+SUBJECT      Tunisia -- Politics and government -- 1987-
+SUBJECT      Morocco -- Politics and government -- 1961-1999.
+SUBJECT      Morocco -- Politics and government -- 1999-
+OCLC #       775271643.
+ISN/STD #    9780231703246 (alk. paper)
+ISN/STD #    0231703244 (alk. paper)
+ISN/STD #    9780231800938.
+ISN/STD #    0231800932.
+ISN/STD #    (OCoLC)775271643 (OCoLC)775411216.
+LCCN         2012003968.
+
+Record 22 of 34
+             MAR
+CALL #       953 23.
+CALL #       DS247.A135 C66 2012.
+AUTHOR       Commins, David Dean.
+TITLE        The Gulf states : a modern history / David Commins.
+IMPRINT      London ; New York : I.B. Tauris & Co., 2012.
+DESCRIPT'N   xiii, 318 p. : ill., maps ; 22 cm.
+NOTE         Includes bibliographical references (p. [301]-307) and index.
+NOTE         Introduction to the Gulf -- Historical patterns to 1500 -- Muslim
+               and European empires, 1500-1720 -- An era of political 
+               turbulence, 1720-1820 -- The era of British supremacy, 1820-
+               1920 -- The formation of modern states, 1920-56 -- The Gulf in 
+               the era of Arab nationalism, 1956-71 -- Affluence, revolution 
+               and war, 1971-91 -- Years of deepening American intervention.
+SUBJECT      Persian Gulf States -- History.
+SUBJECT      Persian Gulf States -- Politics and government.
+OCLC #       698587128.
+ISN/STD #    9781848852785.
+ISN/STD #    1848852789.
+
+Record 23 of 34
+             WSU
+CALL #       DS247.B28 J69 2012.
+CALL #       953.65 23.
+AUTHOR       Joyce, Miriam.
+TITLE        Bahrain from the twentieth century to the Arab Spring / Miriam 
+               Joyce.
+EDITION      1st ed.
+IMPRINT      New York : Palgrave Macmillan, 2012.
+DESCRIPT'N   xiii, 169 p. ; 23 cm.
+SERIES       Middle East today.
+SERIES       Middle East today.
+NOTE         Includes bibliographical references and index.
+NOTE         Oil, Iran, and Palestine -- Arab nationalism and the British 
+               decision to depart -- From Independence to the Ramadan/Yom 
+               Kippur War -- Old problems and new challenges -- After the
+               Shah's departure -- From the Gulf Cooperation Council to the 
+               Arab Spring.
+SUBJECT      Bahrain -- History -- 20th century.
+SUBJECT      Bahrain -- Foreign relations -- 20th century.
+SUBJECT      Bahrain -- Foreign economic relations -- 20th century.
+SUBJECT      Arab Spring, 2010-
+OCLC #       778857595.
+ISN/STD #    (OCoLC)778857595.
+ISN/STD #    9781137031785 (alk. paper)
+ISN/STD #    1137031786 (alk. paper)
+LCCN         2012006152.
+
+Record 24 of 34
+             OPL
+CALL #       DS247.Q35 G73 2013.
+CALL #       953.63 23.
+AUTHOR       Gray, Matthew, 1970-
+TITLE        Qatar : politics and the challenges of development / Matthew
+               Gray.
+IMPRINT      Boulder, Colorado : Lynne Rienner Publishers, 2013.
+DESCRIPT'N   xvi, 271 pages ; 24 cm.
+NOTE         Includes bibliographical references and index.
+NOTE         A small isthmus in the central Gulf, with barely 300,000 citizens
+               and a total population of 1.7 million, Qatar has risen rapidly 
+               from obscurity to become the world s wealthiest country per 
+               capita. Matthew Gray traces this spectacular rise, exploring 
+               the development of Qatar s economy, the patterns of its 
+               politics, its role on the world stage, and its prospects for 
+               the future.
+SUBJECT      Qatar -- Politics and government.
+SUBJECT      Qatar -- Economic conditions.
+SUBJECT      Qatar -- Strategic aspects.
+SUBJECT      Qatar -- Foreign relations.
+OCLC #       826458569.
+ISN/STD #    9781588269287 (alk. paper)
+ISN/STD #    1588269280 (alk. paper)
+ISN/STD #    40022209014.
+ISN/STD #    (OCoLC)826458569 (OCoLC)825181198.
+LCCN         2013001380.
+
+Record 25 of 34
+             OU
+CALL #       DS80.9 .H29 2012.
+AUTHOR       Harris, William W.
+TITLE        Lebanon : a history, 600-2011 / William Harris.
+IMPRINT      New York : Oxford University Press, c2012.
+DESCRIPT'N   xxv, 360 p. : ill., maps ; 25 cm.
+SERIES       Studies in Middle Eastern history.
+SERIES       Studies in Middle Eastern history (New York, N.Y.)
+NOTE         Includes bibliographical references (p. 287-333) and index.
+NOTE         Acknowledgments -- Note on transliteration -- Glossary -- 
+               Timeline for Lebanon and its communities -- Introduction -- 
+               Part 1: Foundations: -- 1: Emerging communities, 600-1291 -- 2:
+               Druze ascent, 1291-1633 -- 3: Mountain lords, 1633-1842 -- Part
+               2: Modern Lebanon: -- 4: Emerging Lebanon, 1842-1942 -- 5: 
+               Independent Lebanon, 1943-1975 -- 6: Broken Lebanon, 1975
+               -2011 -- Conclusion -- Abbreviations -- Notes --
+               Bibliography -- Index.
+NOTE         Overview: In this impressive synthesis, William Harris narrates 
+               the history of the sectarian communities of Mount Lebanon and 
+               its vicinity. He offers a fresh perspective on the antecedents 
+               of modern multi-communal Lebanon, tracing the consolidation of 
+               Lebanon's Christian, Muslim, and Islamic derived sects from 
+               their origins between the sixth and eleventh centuries. The 
+               identities of Maronite Christians, Twelver Shia Muslims, and 
+               Druze, the mountain communities, developed alongside assertions
+               of local chiefs under external powers from the Umayyads to the 
+               Ottomans. The chiefs began interacting in a common arena when 
+               Druze lord Fakhr al-Din Ma'n achieved domination of the 
+               mountain within the Ottoman imperial framework in the early 
+               seventeenth century. Harris knits together the subsequent 
+               interplay of the elite under the Sunni Muslim Shihab relatives 
+               of the Ma'ns after 1697 with demographic instability as 
+               Maronites overtook Shia as the largest community and expanded 
+               into Druze districts. By the 1840s many Maronites conceived the
+               common arena as their patrimony. Maronite/Druze conflict
+               ensued. Modern Lebanon arose out of European and Ottoman 
+               intervention in the 1860s to secure sectarian peace in a 
+               special province. In 1920, after the Ottoman collapse, France 
+               and the Maronites enlarged the province into the modern
+               country, with a pluralism of communal minorities headed by 
+               Maronite Christians and Sunni Muslims. The book considers the 
+               flowering of this pluralism in the mid-twentieth century, and 
+               the strains of new demographic shifts and of social resentment 
+               in an open economy. External intrusions after the 1967 Arab-
+               Israeli war rendered Lebanon's contradictions unmanageable and 
+               the country fell apart. Harris contends that Lebanon has not 
+               found a new equilibrium and has not transcended its sects. In 
+               the early twenty-first century there is an uneasy duality: Shia
+               have largely recovered the weight they possessed in the 
+               sixteenth century, but Christians, Sunnis, and Druze are two-
+               thirds of the country. This book offers readers a clear 
+               understanding of how modern Lebanon acquired its precarious 
+               social intricacy and its singular political character.
+SUBJECT      Lebanon -- History.
+OCLC #       757935847.
+ISN/STD #    9780195181128 (pbk. : alk. paper)
+ISN/STD #    0195181123 (pbk. : alk. paper)
+ISN/STD #    9780195181111 (hardcover : alk. paper)
+ISN/STD #    0195181115 (hardcover : alk. paper)
+ISN/STD #    40021083950.
+ISN/STD #    (OCoLC)757935847.
+LCCN         2011042934.
+
+Record 26 of 34
+             WSU
+CALL #       297.8/1092 23.
+CALL #       BP80.M3255 W34 2012.
+AUTHOR       Wagemakers, Joas, 1979-
+TITLE        A quietist Jihadi : the ideology and influence of Abu Muhammad
+               al-Maqdisi / Joas Wagemakers.
+IMPRINT      Cambridge ; New York : Cambridge University Press, 2012.
+DESCRIPT'N   xxiii, 290 p. ; 23 cm.
+NOTE         Includes bibliographical references (p. 251-276) and index.
+NOTE         "Since 9/ll, the Jordanian Abu Muhammad al-Maqdisi (b. West Bank,
+               1959) has emerged as one of the most important radical Muslim 
+               thinkers alive today. While al-Maqdisi may not be a household 
+               name in the West, his influence amongst like-minded Muslims 
+               stretches across the world from Jordan, where he lives today, 
+               to Southeast Asia. His writings and teachings on Salafi Islam 
+               have inspired terrorists from Europe to the Middle East, 
+               including Abu Muṣʻab al-Zarqawi, the former leader of al-Qaida 
+               in Iraq, and Ayman al-Zawahiri, Osama Bin Laden's successor as 
+               the head of al-Qaida Central. This groundbreaking book, which 
+               is the first comprehensive assessment of al-Maqdisi, his life, 
+               ideology, and influence, is based on his extensive writings and
+               those of other jihadis, as well as on interviews that the 
+               author conducted with former jihadis, including al-Maqdisi 
+               himself. It is a serious and intense work of scholarship that 
+               uses this considerable archive to explain and interpret al-
+               Maqdisi's particular brand of Salafism. More broadly, the book 
+               offers an alternative, insider perspective on the rise of 
+               radical Islam, with a particular focus on Salafi opposition 
+               movements in Saudi Arabia and Jordan"-- Provided by publisher.
+NOTE         Part 1. al-Maqdisi's Life and his Place in the Jihadi Ideological
+               Spectrum, 1959-2009: Wavering between quietism and jihadism;
+               al-Maqdisi's quietist jihadi-Salafi ʻAqīda; al-Maqdisi's 
+               quietist jihadi-Salafi Manhaj -- Part II. al-Maqdisi's 
+               Influence on the Saudi Islamic Opposition, 1989-2005: Saudi 
+               Arabia's post-Gulf War opposition; al-Qaʻida on the Arabian 
+               Peninsula -- Part III. al-Maqdisi's Influence on the 
+               Development of al-Walāʼ wa-l-Barāʼ, 1984-2009: The revival of 
+               al-Istiʻāna bi-l-kuffār; 'Salafising' Jihad -- Part IV. al-
+               Maqdisi's Influence on the Jordanian Jihadi-Salafi Community, 
+               1992-2009: Guidance to the seekers; The leader of the Jordanian
+               jihadi-Salafi community?
+SUBJECT      Maqdisī, Abū Muḥammad, 1959-
+SUBJECT      Salafīyah.
+SUBJECT      Jihad.
+SUBJECT      Islam and state.
+SUBJECT      Muslim scholars -- Jordan.
+OCLC #       755080556.
+ISN/STD #    (OCoLC)755080556 (OCoLC)803866466.
+ISN/STD #    9781107022072 (hardback)
+ISN/STD #    110702207X (hardback)
+ISN/STD #    9781107606562 (paperback)
+ISN/STD #    110760656X (paperback)
+LCCN         2011039454.
+
+Record 27 of 34
+             CWR
+CALL #       DS63.2.U5 H32 2012.
+CALL #       327.56 23.
+AUTHOR       Haas, Mark L.
+TITLE        The clash of ideologies : Middle Eastern politics and American 
+               security / Mark L. Haas.
+IMPRINT      New York : Oxford University Press, c2012.
+DESCRIPT'N   xvii, 302 p. ; 24 cm.
+NOTE         Includes bibliographical references and index.
+NOTE         Introduction -- The importance of ideological distance and 
+               polarity to foreign policies -- Iranian ideological factions 
+               and international policies, 1997-2009 -- Ideologies and the 
+               history of the Syrian-Iranian alliance -- Ideologies and 
+               Turkish foreign policies after the Cold War -- Ideologies and
+               U.S.-Saudi relations after the Cold War's end -- Conclusion.
+SUBJECT      Ideology -- Political aspects -- Middle East.
+SUBJECT      Ideology -- Political aspects -- United States.
+SUBJECT      Middle East -- Foreign relations -- United States.
+SUBJECT      United States -- Foreign relations -- Middle East.
+SUBJECT      Middle East -- Foreign relations -- United States -- Case
+               studies.
+SUBJECT      United States -- Foreign relations -- Middle East -- Case
+               studies.
+OCLC #       764348512.
+ISN/STD #    9780199838424 (hbk. : alk. paper)
+ISN/STD #    0199838429 (hbk. : alk. paper)
+ISN/STD #    9780199838448 (pbk. : alk. paper)
+ISN/STD #    0199838445 (pbk. : alk. paper)
+LCCN         2012001122.
+
+Record 28 of 34
+             OU
+CALL #       DS63.1 .R3513 2012.
+AUTHOR       Ramadan, Tariq.
+TITLE        Islam et le réveil arabe. English.
+TITLE        Islam and the Arab awakening / Tariq Ramadan.
+IMPRINT      Oxford ; New York : Oxford University Press, c2012.
+DESCRIPT'N   245 p. ; 25 cm.
+NOTE         Includes bibliographical references and index.
+NOTE         Made-to-order uprisings? -- Cautious optimism -- Islam, Islamism,
+               secularization -- The Islamic reference.
+NOTE         One of the most important developments in the modern history of 
+               the Middle East, the so-called Arab Spring began in Tunisia in 
+               December 2010, bringing down dictators, sparking a civil war in
+               Libya, and igniting a bloody uprising in Syria. Its long-term 
+               repercussions in Egypt and elsewhere remain unclear. Now one of
+               the world's leading Islamic thinkers examines and explains it, 
+               in this searching, provocative, and necessary book. Time 
+               Magazine named Tariq Ramadan one of the most important 
+               innovators of the twenty-first century. He has won global 
+               renown for his reflections on Islam and the contemporary 
+               challenges in both the Muslim majority societies and the West. 
+               In Islam and the Arab Awakening, he explores the uprisings, 
+               offering rare insight into their origin, significance, and 
+               possible futures.
+SUBJECT      Democratization -- Arab countries.
+SUBJECT      Social movements -- Arab countries.
+SUBJECT      Revolutions -- Arab countries.
+SUBJECT      Islam -- 21st century.
+OCLC #       776142366.
+ISN/STD #    9780199933730 (alk. paper)
+ISN/STD #    0199933731 (alk. paper)
+ISN/STD #    (OCoLC)776142366.
+LCCN         2012005620.
+
+Record 29 of 34
+             CWR
+CALL #       JQ1826.A91 C58 2013.
+CALL #       322.40955 23.
+TITLE        Civil society in Syria and Iran : activism in authoritarian 
+               contexts / edited by Paul Aarts and Francesco Cavatorta.
+IMPRINT      Boulder, Colo. : Lynne Rienner Publishers, 2013.
+DESCRIPT'N   vii, 257 pages ; 24 cm.
+NOTE         Includes bibliographical references (pages 221-241) and index.
+NOTE         Civil Society in Syria and Iran / the Editors -- Syria's Civil 
+               Society as a Tool for Regime Legitimacy / L. Khatib -- Iran's 
+               Civil Society Grappling With a Triangular Dynamic / A. 
+               Fathollah-Nejad -- Business Associations and the New Nexus of 
+               Power in Syria / B. Haddad -- The Ambiguous Role of 
+               Entrepreneurs in Iran / P. Jafari -- The Internet and Civil 
+               Activism in Syria / R. Schaery-Eisenlohr and F. Cavatorta -- 
+               From Virtual to Tangible Social Movements in Iran / A.
+               Honari -- The Paradox of Government-Organized Civil Activism in
+               Syria / S. Kawakibi -- Co-opting Civil Society Activism in Iran
+               / P. Rivetti -- Civil Society Activism in Authoritarian Regimes
+               / M.K. Al-Sayyid.
+NOTE         "What are the dynamics of civic activism in authoritarian
+               regimes? How do new social actors--many of them informal, 
+               "below the radar" groups--interact with these regimes? What 
+               mechanisms do the power elite employ to deal with societal 
+               dissidence? The authors of Civil Society in Syria and Iran 
+               explore the nature of state-society relations in two countries 
+               that are experiencing popular demands for political pluralism 
+               amid the constraints of authoritarian retrenchment."-
+               -Publisher's website.
+SUBJECT      Civil society -- Syria.
+SUBJECT      Civil society -- Iran.
+SUBJECT      Authoritarianism.
+SUBJECT      Regime change.
+SUBJECT      Comparative government.
+SUBJECT      Syria -- Politics and government.
+SUBJECT      Syria -- Social conditions.
+SUBJECT      Iran -- Politics and government.
+SUBJECT      Iran -- Social conditions.
+ALT NAME     Aarts, Paul, 1949-
+ALT NAME     Cavatorta, Francesco.
+OCLC #       800025072.
+ISN/STD #    9781588268815 (hardcover : alk. paper)
+ISN/STD #    1588268810 (hardcover : alk. paper)
+ISN/STD #    9781588268570 (pbk. : alk. paper)
+ISN/STD #    1588268578 (pbk. : alk. paper)
+ISN/STD #    (OCoLC)800025072.
+LCCN         2012022251.
+
+Record 30 of 34
+             OU
+CALL #       BP187.3 .T346 2013.
+AUTHOR       Tagliacozzo, Eric.
+TITLE        The longest journey : Southeast Asians and the pilgrimage to 
+               Mecca / Eric Tagliacozzo.
+IMPRINT      Oxford ; New York : Oxford University Press, 2013.
+DESCRIPT'N   ix, 356 pages : illustrations ; 24 cm.
+NOTE         Includes bibliographical references (pages 315-346)
+NOTE         Deep structure, longue-duree: charting the hajj over the 
+               centuries. Ancient footsteps: Southeast Asia's earliest Muslim 
+               pilgrims -- Mecca's tidal pull: the Red Sea and its worlds -- 
+               Financing devotion: the economics of the pre-modern hajj -- 
+               Sultanate and crescent: religion and politics in the Indian 
+               Ocean -- Sailor, doctor, statesman, spy: the hajj through four 
+               colonial windows. In Conrad's wake: Lord Jim, the "Patna", and 
+               the hajj -- A medical mountain: health maintenance and disease 
+               control on the hajj -- The skeptic's eye: Snouck Hurgronje and 
+               the politics of pilgrimage -- The Jeddah consulates: colonial 
+               espionage in the Hejaz -- Making the hajj "modern": pilgrims, 
+               states, and memory. Regulating the flood: the hajj and the 
+               independent nation-state -- On the margins of Islam: hajjis 
+               from outside Southeast Asia's "Islamic arc" -- "I was the guest
+               of Allah": hajj memoirs and writings from Southeast Asia -- 
+               Remembering devotion: oral history and the pilgrimage.
+SUBJECT      Muslim pilgrims and pilgrimages -- Saudi Arabia -- Mecca.
+SUBJECT      Muslims -- Southeast Asia.
+OCLC #       819136169.
+ISN/STD #    9780195308273 (alk. paper)
+ISN/STD #    0195308271 (alk. paper)
+ISN/STD #    9780195308280 (alk. paper)
+ISN/STD #    019530828x (alk. paper)
+ISN/STD #    40022148859.
+ISN/STD #    (OCoLC)819136169.
+LCCN         2012039784.
+
+Record 31 of 34
+             MAR
+CALL #       909.04927 23.
+CALL #       DS37.7 .M348 2013.
+AUTHOR       McHugo, John, 1951-
+TITLE        A concise history of the Arabs / John McHugo.
+IMPRINT      London : Saqi, 2013.
+DESCRIPT'N   352 p. : maps ; 24 cm.
+NOTE         Includes bibliographical references (p. 331-337) and index.
+NOTE         1 -- When History Changed Direction 2 -- Growing Apart 3 -- The 
+               West Takes Control 4 -- Sharing an Indigestible Cake 5 -- 
+               Secularism and Islamism in Egypt 6 -- The West Seems to Retreat
+               7 -- The Six-Day War and Its Consequences 8 -- Iraq, Israel, 
+               Militancy and Terrorism 9 -- The Age of Autocrats and the Rise 
+               of Islamism Conclusion -- Something Snaps: The Arabs Spring and
+               Beyond Notes Bibliography Further Reading.
+NOTE         The key to understanding the Arab world today - and in the future
+               - is unlocking its past. John McHugo takes the reader on a 
+               journey through the political, social and intellectual history 
+               of the Arabs from the Roman Empire right up to the present day.
+               He covers the mission of the Prophet Muhammad, the expansion of
+               Islam, medieval and modern conflicts, the interaction with 
+               Western ideas, the struggle to escape foreign domination, the 
+               rise of Islamism, and the end of the era of dictators. The 
+               concise history reveals how the Arab world came to have its 
+               present form, why change was inevitable and what choices lie 
+               ahead following the Arab Spring.
+SUBJECT      Arabs -- History.
+SUBJECT      Civilization, Arab.
+SUBJECT      Arab countries -- History.
+OCLC #       822959437.
+ISN/STD #    9780863568893 (hbk.)
+ISN/STD #    0863568890 (hbk.)
+ISN/STD #    0863568947 (ebook)
+ISN/STD #    9780863568947 (ebook)
+
+Record 32 of 34
+             OBE
+CALL #       LC2608 .R84 2012.
+CALL #       372.9172/4 23.
+AUTHOR       Rugh, Andrea B.
+TITLE        International development in practice : education assistance in 
+               Egypt, Pakistan, and Afghanistan / Andrea B. Rugh.
+EDITION      1st ed.
+IMPRINT      New York : Palgrave Macmillan, 2012.
+DESCRIPT'N   xv, 225 p. ; 22 cm.
+NOTE         Includes bibliographical references (p. [201]-207) and index.
+SUBJECT      Education, Primary -- Developing countries.
+SUBJECT      Education, Primary -- Aims and objectives -- Developing
+               countries.
+SUBJECT      Education, Primary -- Economic aspects -- Developing countries.
+SUBJECT      Educational assistance -- Developing countries.
+SUBJECT      Educational assistance -- Egypt -- Case studies.
+SUBJECT      Educational assistance -- Pakistan -- Case studies.
+SUBJECT      Educational assistance -- Afghanistan -- Case studies.
+SUBJECT      Oberlin College author -- Class of 1957 -- Rugh, Andrea B.
+GENRE/FORM   Case studies. fast (OCoLC)fst01423765.
+OCLC #       738335876.
+ISN/STD #    9780230340176.
+ISN/STD #    0230340172.
+ISN/STD #    (OCoLC)738335876.
+LCCN         2011025310.
+
+Record 33 of 34
+             FCO
+AUTHOR       Willis, John M. (John Matthew), 1971-
+TITLE        Unmaking north and south : cartographies of the Yemeni past,
+               1857-1934 / John M. Willis.
+IMPRINT      New York : Columbia University Press, c2012.
+DESCRIPT'N   xv, 273 p. : ill., maps ; 23 cm.
+NOTE         Includes bibliographical references and index.
+NOTE         Defining authority on the Indian frontier -- Masterless men -- A 
+               landscape of uncertainty -- Disorder and the domain of 
+               obedience -- The centre of revival and reform -- The return of 
+               indeterminacy -- Conclusion : unmaking north and south.
+SUBJECT      Yemen, South -- History.
+SUBJECT      Yemen, North -- History.
+SUBJECT      Aden (Yemen) -- History.
+SUBJECT      Yemen, South -- Foreign relations -- Great Britain.
+SUBJECT      Great Britain -- Foreign relations -- Yemen, South.
+GENRE/FORM   History. fast (OCoLC)fst01411628.
+OCLC #       320798613.
+ISN/STD #    9780231701310 (alk. paper)
+ISN/STD #    0231701314 (alk. paper)
+ISN/STD #    (OCoLC)320798613.
+LCCN         2012029083.
+
+Record 34 of 34
+             CWR
+CALL #       JQ1830.A979 B76 2013.
+CALL #       324.25695/3 23.
+AUTHOR       Bröning, Michael.
+TITLE        Political parties in Palestine : leadership and thought / Michael
+               Bröning ; in association with the research group including 
+               Christoph Dinkelaker ... [et al.].
+EDITION      1st ed.
+IMPRINT      New York : Palgrave Macmillan, 2013.
+DESCRIPT'N   226 p. : ill. ; 23 cm.
+NOTE         Includes bibliographical references and index.
+NOTE         Political factions in Palestine: stagnation, ambiguity, and 
+               change -- Hamas: between terror and realpolitik -- Fatah: from 
+               resistance movement to party of state -- PFLP: Arab anti-
+               imperialists -- PNI: a history of nonviolence -- PPP: the PNA's
+               loyal opposition -- DFLP: Palestinian Marxists and their coming
+               of age.
+NOTE         "Political Parties in Palestine is an up-to-date elucidation of 
+               the Palestinian political landscape. The book offers vital 
+               background information on movements such as Hamas and Fatah, as
+               well as smaller political factions that have defined the 
+               Israeli-Palestinian conflict for decades but, due to lack of 
+               available information, have not been subject to academic 
+               scrutiny.The book provides a comprehensive discussion of the 
+               ideological outlook, historical development, and political 
+               objectives of all major political actors in the Palestinian 
+               Legislative Council (PLC). A well-informed but accessible 
+               overview, it combines analytical introductions with engaging 
+               profiles of party founders, interviews with current party 
+               leaders, organizational charts, and excerpts from party 
+               programs previously unavailable in English"-- Provided by 
+               publisher.
+SUBJECT      Political parties -- West Bank.
+SUBJECT      Political parties -- Gaza Strip.
+SUBJECT      Political participation -- West Bank.
+SUBJECT      Political participation -- Gaza Strip.
+OCLC #       798615508.
+ISN/STD #    9781137296924.
+ISN/STD #    1137296925.
+ISN/STD #    40021956293.
+LCCN         2012029470.
