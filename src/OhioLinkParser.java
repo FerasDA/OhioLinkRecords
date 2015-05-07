@@ -89,16 +89,20 @@ public class OhioLinkParser {
         List<String> pl = new ArrayList<String>();
 
         for (int i = 0; i < lines.size(); i++) {
-            if (lines.get(i).startsWith("AUTHOR")) {
+            String title = "";
+            if (lines.get(i).startsWith("Record")) {
+                pl.add(lines.get(i));
+            } else if (lines.get(i).startsWith("AUTHOR")) {
                 pl.add(lines.get(i));
             } else if (lines.get(i).startsWith("TITLE")) {
-                pl.add(lines.get(i));
+                title = lines.get(i);
                 int j = i + 1;
                 while (!lines.get(j).startsWith("IMPRINT")
                         && !lines.get(j).startsWith("EDITION")) {
-                    pl.add(lines.get(j));
+                    title = title + lines.get(j) + " ";
                     j++;
                 }
+                pl.add(title);
             } else if (lines.get(i).startsWith("IMPRINT")) {
                 pl.add(lines.get(i));
             } else if (lines.get(i).startsWith("OCLC")) {
