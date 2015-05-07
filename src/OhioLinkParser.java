@@ -65,6 +65,50 @@ public class OhioLinkParser {
         return al;
     }
 
+    public static List<List<String>> listOfRecords(List<String> lines) {
+        List<List<String>> lor = new ArrayList<List<String>>();
+        List<String> oneRecord = new ArrayList<String>();
+
+        int recCount = 0;
+        for (int i = 0; i < lines.size(); i++) {
+//            String line = lines.remove(i);
+//            if (line.startsWith("Record")) {
+//                recCount++;
+//            }
+//            if (recCount == 1) {
+//                oneRecord.add(line);
+//            }
+        }
+        lor.add(oneRecord);
+
+        // System.out.println("ddd" + oneRecord.size());
+        return lor;
+    }
+
+    public static List<String> parsedList(List<String> lines) {
+        List<String> pl = new ArrayList<String>();
+
+        for (int i = 0; i < lines.size(); i++) {
+            if (lines.get(i).startsWith("AUTHOR")) {
+                pl.add(lines.get(i));
+            } else if (lines.get(i).startsWith("TITLE")) {
+                pl.add(lines.get(i));
+                int j = i + 1;
+                while (!lines.get(j).startsWith("IMPRINT")
+                        && !lines.get(j).startsWith("EDITION")) {
+                    pl.add(lines.get(j));
+                    j++;
+                }
+            } else if (lines.get(i).startsWith("IMPRINT")) {
+                pl.add(lines.get(i));
+            } else if (lines.get(i).startsWith("OCLC")) {
+                pl.add(lines.get(i));
+            }
+        }
+
+        return pl;
+    }
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         /*
@@ -78,9 +122,14 @@ public class OhioLinkParser {
                 + "\"ex: data/NameOfFile.txt\": ");
         String outFileName = in.nextLine();
         /*
-         * the list of all records
+         * the list of all lines
          */
         List<String> lines;
+        /*
+         * list of records
+         */
+        // List<List<String>> lor;
+        List<String> pl;
 
         BufferedReader inFile;
         try {
@@ -88,6 +137,15 @@ public class OhioLinkParser {
 
             lines = allLines(inFile);
             System.out.println(lines.size());
+
+//            lor = listOfRecords(lines);
+//            System.out.println(lor.size());
+
+            pl = parsedList(lines);
+            System.out.println("ox " + pl.size());
+            while (pl.size() > 0) {
+                System.out.println(pl.remove(0));
+            }
 
             inFile.close();
         } catch (IOException e) {
