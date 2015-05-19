@@ -2,6 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
@@ -69,17 +70,40 @@ public class OhioLinkParser {
         List<List<String>> lor = new ArrayList<List<String>>();
         List<String> oneRecord = new ArrayList<String>();
 
-        int recCount = 0;
+        int[] recordIndex = new int[50];
+        int j = 0;
         for (int i = 0; i < lines.size(); i++) {
+            String line = lines.get(i);
+            if (line.startsWith("Record")) {
+                recordIndex[j] = i;
+                j++;
+            }
+        }
+        System.out.println(Arrays.toString(recordIndex));
+
+        for (int i = 1; i < recordIndex.length; i++) {
+            int start = recordIndex[i - 1];
+            int end = recordIndex[i];
+            int k = start;
+            while (k >= start && k < end) {
+                oneRecord.add(lines.get(k));
+                k++;
+            }
+            lor.add(oneRecord);
+            oneRecord = new ArrayList<String>();
+        }
+
+//        Boolean isNewRecord = false;
+//        for (int i = 0; i < lines.size(); i++) {
 //            String line = lines.remove(i);
 //            if (line.startsWith("Record")) {
-//                recCount++;
+//                isNewRecord = true;
 //            }
-//            if (recCount == 1) {
+//            if (isNewRecord) {
 //                oneRecord.add(line);
 //            }
-        }
-        lor.add(oneRecord);
+//        }
+//        lor.add(oneRecord);
 
         // System.out.println("ddd" + oneRecord.size());
         return lor;
@@ -132,7 +156,7 @@ public class OhioLinkParser {
         /*
          * list of records
          */
-        // List<List<String>> lor;
+        List<List<String>> lor;
         List<String> pl;
 
         BufferedReader inFile;
@@ -147,6 +171,11 @@ public class OhioLinkParser {
 
             pl = parsedList(lines);
             System.out.println("ox " + pl.size());
+
+            //testing this method
+            lor = listOfRecords(pl);
+            System.out.println(lor.size());
+
             while (pl.size() > 0) {
                 System.out.println(pl.remove(0));
             }
