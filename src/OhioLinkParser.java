@@ -70,7 +70,7 @@ public class OhioLinkParser {
         List<List<String>> lor = new ArrayList<List<String>>();
         List<String> oneRecord = new ArrayList<String>();
 
-        int[] recordIndex = new int[50];
+        int[] recordIndex = new int[200];
         int j = 0;
         for (int i = 0; i < lines.size(); i++) {
             String line = lines.get(i);
